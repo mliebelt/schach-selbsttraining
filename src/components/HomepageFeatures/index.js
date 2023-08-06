@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Methodik',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/chess-buddies.svg').default,
     description: (
       <>
         Worauf muss ein Trainer achten, wenn der Schüler ein Selbsttraining betreiben möchte.
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Online Hilfsmittel',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/tools-svgrepo-com.svg').default,
     description: (
       <>
         Welche Hilfsmittel (Trainingswerkzeuge, Websites, ...) stehen zur Verfügung.
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Was es sonst so gibt',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/Pictogrammers-Material-Clouds.svg').default,
     description: (
       <>
         Und was findet man zum Schach online, das beim Training (oder auch den Trainer selbst) unterstützt.

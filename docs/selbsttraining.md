@@ -17,6 +17,10 @@ Was ist das Prinzip, wie ist es aufgebaut, was ist wichtig und wesentlich.
 
 ## Ressourcen
 
+* Chessable
+* Chessemy
+* ChessTempo
+* Videomaterial unter [Schachunterhaltung](./schachunterhaltung)
 * [Ansatz Noel Studer](https://nextlevelchesscourses.teachable.com/p/next-level-training) Wird im Kurs vorgestellt.
 * Trainingsplan
   * [ich-lerne-schach](https://www.ich-lerne-schach.de/public_files/Trainingsplan.pdf)

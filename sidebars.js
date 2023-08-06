@@ -20,13 +20,13 @@ const sidebars = {
   tutorialSidebar: [
     {
       type: 'category',
-      label: 'Selbsttraining',
-      items: ['selbsttraining']
+      label: 'Training',
+      items: ['selbsttraining','schachonline','onlinetraining']
     },
     {
       type: 'category',
       label: 'Sonstiges',
-      items: ['schachonline', 'schuljugendschach'],
+      items: ['schachunterhaltung', 'schuljugendschach'],
     },
   ],
 };
