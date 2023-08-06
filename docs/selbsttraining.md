@@ -21,5 +21,5 @@ Was ist das Prinzip, wie ist es aufgebaut, was ist wichtig und wesentlich.
 * Trainingsplan
   * [ich-lerne-schach](https://www.ich-lerne-schach.de/public_files/Trainingsplan.pdf)
 * Websites
-  * [Lichess](lichess.org) Tief behandelt, auch zum Selbststudium geeignet
-  * [Chess.com](chess.com) **Die** kommerzielle Website, das Facebook des Schachs. Markus sieht chess.com kritisch, wir gehen aber im Kurs auf die Möglichkeiten ein.
+  * [Lichess](https://lichess.org) Tief behandelt, auch zum Selbststudium geeignet
+  * [Chess.com](https://chess.com) **Die** kommerzielle Website, das Facebook des Schachs. Markus sieht chess.com kritisch, wir gehen aber im Kurs auf die Möglichkeiten ein.
