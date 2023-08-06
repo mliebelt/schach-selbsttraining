@@ -26,7 +26,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Sonstiges',
-      items: ['schachunterhaltung', 'schuljugendschach'],
+      items: ['schachunterhaltung', 'schuljugendschach','werkzeuge'],
     },
   ],
 };
