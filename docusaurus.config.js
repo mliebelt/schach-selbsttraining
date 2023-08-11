@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Schach Selbstraining',
   tagline: 'Wie kann man Schach selbst (online) trainieren?',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.ico',
 
   // Set the production url of your site here
   url: 'https://schach-selbsttraining.netlify.app/',
