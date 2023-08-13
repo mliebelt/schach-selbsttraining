@@ -11,12 +11,12 @@ Wenn man also nachschauen möchte, was es so alles gibt, dann findet man hier ve
 |--------------|---------------------------------------------|---------------------------------------------|
 | [Akademie Schachmatt](https://akademieschachmatt.thinkific.com/) | Bekannt von YouTube (Schachmatt TV)      | [Link](./onlinetraining.md#schachakademien) |
 | [chess.com](https://chess.com) | Der kommerzielle Schach-Website, unter den Top-100 der besuchten Websites | [Link](./schachonline#chesscom)             |
-| [Chessbase](https://de.chessbase.com/) | Die Firma hinter der gleichnamigen Software | [Link](./schachonline#chessbase)            |
-| [Chessemy](https://www.chessemy.com/) | Videokurse von vielen bekannten Trainern    | [Link](./schachunterhaltung#videos)         |
+| [Chessbase](https://de.chessbase.com/) | Die Firma hinter der gleichnamigen Software | [Link](./schachonline.md#chessbase)         |
+| [Chessemy](https://www.chessemy.com/) | Videokurse von vielen bekannten Trainern    | [Link](./schachunterhaltung.md#videos)         |
 | [Chessence](https://chessence.de/) | Online-Schachschule mit vor allem Videokursen |                                             |
 | [Deutsche Schachjugend](https://www.deutsche-schachjugend.de/) | Organisation im Bund                        |                                             |
 | [Jussupow Schachakademie](http://www.jussupow.de/Training) | Bietet immer wieder Turniere und auch Schachkurse vor allem für Kinder an. |                                             |
-| [Lichess](https://lichess.org) | Der Open Source Schach-Website              | [Link](./schachonline#lichess)              |
+| [Lichess](https://lichess.org) | Der Open Source Schach-Website              | [Link](./schachonline.md#lichess)              |
 | [Lubbe Schach](https://www.lubbe-schach.de/training/) | Gute Sammlung von Material, siehe Chessemy  |                                             |
 | [Münchner Schachakademie](https://www.mucschach.de/) | Schachunterricht vor Ort und online         |                                             |
 | [Perlen vom Bodensee](https://perlenvombodensee.de/) | Bekannter deutscher Schach-Blog             |                                             |
