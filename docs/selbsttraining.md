@@ -3,6 +3,12 @@ sidebar_position: 1
 ---
 # Selbsttraining
 
+* [Methodik](#methodik)
+* [Aufbau und Inhalte](#aufbau-und-inhalte)
+* [Trainingsplan Beispiele](#trainingsplan-beispiele)
+* [Trainingswerkzeuge](#trainingswerkzeuge)
+* [Ressourcen](#ressourcen)
+
 Schach ist gegenüber vielen anderen Sportarten besonders, da man hier (unterstützt durch den Trainer, durchaus auch ohne ihn) sich selbst trainieren kann. Wichtig ist, dass ab einem bestimmten Level niemand besser werden kann, wenn er/sie nicht ins Selbsttraining einsteigt.
 
 ## Methodik

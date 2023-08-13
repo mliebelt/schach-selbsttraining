@@ -3,6 +3,9 @@ sidebar_position: 3
 ---
 # Schul- und Jugendschach
 
+* [Schul- und Jugendschach Organisationen](#schul--und-jugendschach-organisationen)
+* [Ressourcen](#ressourcen)
+
 Was gibt es in Deutschland (und darüber hinaus), wie sind die organisiert, was kann man erwarten, was nicht? Hier eine Sammlung im wesentlich der vorhandenen Ressourcen, die Bewertung und Einschätzung erfolgt dann (mündlich) im Kurs.
 
 ## Schul- und Jugendschach Organisationen
@@ -11,7 +14,7 @@ Was gibt es in Deutschland (und darüber hinaus), wie sind die organisiert, was 
   * Veranstaltet die Deutschen Jugendmeisterschaften
   * Kooperiert mit der Schulschachstiftung
 * [Schulschach in BW](https://bw-schulschach.de/) Veranstaltet Bezirks- und Württembergische Meisterschaften und Pokalturniere
-* [Württembergische Schachjugend](https://wsj-schach.de/) Habe ich eher zufällig beim Suchen gefunden, kann nicht sagen, in wieweit die Württembergische Schachjugend eigenständig ist. Richtet die Württembergischen Vereinsmannschaftsmeisterschaften aus.
+* [Württembergische Schachjugend](https://wsj-schach.de/) Habe ich eher zufällig beim Suchen gefunden, kann nicht sagen, in wie weit die Württembergische Schachjugend eigenständig ist. Richtet die Württembergischen Vereinsmannschaftsmeisterschaften aus.
 * [Schulschachstiftung](https://schulschachstiftung.de/) kooperiert mit der Deutschen Schachjugend, veranstaltet (mit) den jährlich stattfindenden Schulschach-Kongress (dieses Jahr vom 10.-12.11. in Erlangen).
 * [European Chess Union](https://www.europechess.org/)
 * [ChessPlus](https://chessplus.net/) Organisiert Trainingskurse für Trainer, hat eine eigene Methodik (SMART)

@@ -3,6 +3,19 @@ sidebar_position: 2
 ---
 # Schach Online
 
+<!-- TOC -->
+* [Schach Online](#schach-online)
+  * [Plattformen](#plattformen)
+    * [Lichess](#lichess)
+    * [chess.com](#chesscom)
+    * [Chess24](#chess24)
+    * [Chessbase](#chessbase)
+  * [Spielen](#spielen)
+  * [Analysieren](#analysieren)
+    * [Analyse Lichess](#analyse-lichess)
+    * [Analyse Chess.com](#analyse-chesscom)
+<!-- TOC -->
+
 Hier eine Sammlung der Ressourcen, die weder ins Online-Training noch ins Selbsttraining reingepasst haben. Mal sehen, ob man das noch etwas strukturieren kann.
 
 Themen könnten sein
@@ -15,9 +28,13 @@ Themen könnten sein
 
 Die folgenden Plattformen sind in mehrfacher Hinsicht bekannt, und werden deshalb zuerst aufgeführt.
 
-* Lichess (meine Präferenz)
-* chess.com: Der Platzhirsch, sehr finanzstark. Accounts ohne Geld sind nur eingeschränkt nutzbar, viele interessante Feature erst nach Einwurf einiger kleiner Münzen.
-* Chess24.com: Gehört nun zur chess.com-Gruppe, was sich in der Werbung zeigt.
+### Lichess
+
+### chess.com
+
+### Chess24
+
+### Chessbase
 
 ## Spielen
 

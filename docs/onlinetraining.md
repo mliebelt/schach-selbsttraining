@@ -1,9 +1,16 @@
 ---
 sidebar_position: 1
 ---
+
 # Online Training
 
-Hier wird nicht (nochmal) das aufgeführt, was in den Schulungsunterlagen für [Online-Training mit Lichess und Discord](https://schachtraining-lichess-discord.netlify.app/docs/intro) schon angeboten wird. 
+<!-- TOC -->
+* [Online Training](#online-training)
+  * [Trainer](#trainer)
+  * [Schachakademien](#schachakademien)
+<!-- TOC -->
+
+Hier wird nicht (nochmal) das aufgeführt, was in den Schulungsunterlagen für [Online-Training mit Lichess und Discord](https://schachtraining-lichess-discord.netlify.app/docs/intro) schon angeboten wird.
 
 Es gibt aber darüber hinaus einige Angebote online, die der Übersicht halber aufgeführt werden sollten.
 

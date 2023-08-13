@@ -3,9 +3,10 @@ sidebar_position: 2
 ---
 # Schachunterhaltung
 
-* Unterhaltung
-    * Streamer
-    * Websites (zum lesen)
+* [Streamer](#streamer)
+* [Podcasts](#podcasts)
+* [Websites](#websites)
+* [Ressourcen](#ressourcen)
 
 ## Streamer
 
@@ -28,4 +29,3 @@ Es gibt vieles, aber hier der Versuch, einiges davon kurz zu besprechen.
 ## Ressourcen
 
 * [Rosen Score](https://lichess.org/@/Lichess/blog/what-is-your-rosen-score/PuSIsIum) Eric Rosen hat immer wieder Muster (oh no, my queen!), die man automatisch checken kann.
-* [Veränderung des Schachs durch Technik](https://youtu.be/IOQNVN4aX7s) Vortrag von Vincent Keymer, 50 Minuten. Fokus aus Historie, Engines

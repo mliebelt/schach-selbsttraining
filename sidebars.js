@@ -21,13 +21,18 @@ const sidebars = {
     {
       type: 'category',
       label: 'Training',
-      items: ['selbsttraining','schachonline','onlinetraining']
+      items: ['schachonline','onlinetraining','selbsttraining']
     },
     {
       type: 'category',
       label: 'Sonstiges',
       items: ['schachunterhaltung', 'schuljugendschach','werkzeuge'],
     },
+    {
+      type: 'doc',
+      id: 'ressourcen',
+      label: 'Ressourcen'
+    }
   ],
 };
 
