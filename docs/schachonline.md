@@ -16,13 +16,7 @@ sidebar_position: 2
     * [Analyse Chess.com](#analyse-chesscom)
 <!-- TOC -->
 
-Hier eine Sammlung der Ressourcen, die weder ins Online-Training noch ins Selbsttraining reingepasst haben. Mal sehen, ob man das noch etwas strukturieren kann.
-
-Themen könnten sein
-
-* Spielen: Vergleich der Plattformen
-* Analysieren: Welche Unterstützungen, welche Restriktionen
-* Nachspielen: Zugriff auf Großmeisterpartien, inklusive Kommentare, ...
+Hier eine Sammlung der Ressourcen, die übergreifend interessant sind. Beim Training dann werden diese referenziert.
 
 ## Plattformen
 
@@ -30,11 +24,44 @@ Die folgenden Plattformen sind in mehrfacher Hinsicht bekannt, und werden deshal
 
 ### Lichess
 
+Lichess ist mein Favorit, aus den folgenden Gründen:
+
+* Lichess ist kostenfrei, ohne dass dadurch die nutzbaren Feature in irgendeiner Form eingeschränkt wären. Keine Paywall, und das Versprechen, dass alles immer kostenfrei bleibt. Damit keine Hürde für ein (Jugend-)Training.
+* Lichess hat ein phantastisches Set an Werkzeugen, die beim Training unterstützen. Und vieles ist genau auf die Situation hin getrimmt, und wird von keinem anderen Anbieter in der Form erreicht.
+* Lichess hat eine tolle Community, mit vielen Leuten, die sich gegenseitig helfen.
+* Und es gibt auch hier immer wieder bekannte Persönlichkeiten, die auch auf Lichess auftauchen, streamen, ... (Bevor Magnus von chess.com gekauft wurde, war er öfter auf Lichess zu finden.)
+
+Man findet detaillierte Informationen zu Lichess [hier](https://schachtraining-lichess-discord.netlify.app/docs/lichess). Die Feature, die wir für's Training besonders brauchen, sind:
+
+* [Studien](https://schachtraining-lichess-discord.netlify.app/docs/lichess#nutzung-von-studien): Eine Art kleine Datenbank von PGN Partien, mit allen Möglichkeiten, die Chessbase auch bietet. Besonders ist, dass die Studie parallel von mehreren Leuten synchron genutzt werden kann.
+* [Teams](https://schachtraining-lichess-discord.netlify.app/docs/lichess#erstellung-und-nutzung-eines-teams): Damit kann man im Training typische Situationen gut unterstützen, wie Turniere anbieten, Simultan, ...
+* [Aufgaben, Spiele, ...](https://schachtraining-lichess-discord.netlify.app/docs/lichess#weitere-m%C3%B6glichkeiten-f%C3%BCr-das-training): Übersicht über die weiteren Möglichkeiten, nicht detailliert dargestellt.
+
 ### chess.com
+
+Chess.com ist die Top-100 Plattform für Schach, die einen wahnsinnigen Zuwachs während Corona erfahren hat. Chess.com hat sehr viel Geld, und gibt das auch für Prominente und viele gute Angebote aus. Aber umgekehrt muss (viel) Geld eingenommen werden, so dass viele Angebote bei chess.com kostenpflichtig sind. 
+
+![Preise für chess.com](chesscom-preise.jpg)
+
+D.h. wenn man kein Geld bezahlt, dann entfällt alles, wo im Bild oben unlimited steht.
+
+Hier die Feature, die für ein Training nützlich sein könnten:
+
+* [Analyse](https://www.chess.com/analysis?tab=analysis): Die kann zwar durchgeführt werden, ist aber leider kostenpflichtig, wenn man die Analyse speichern möchte (was man für ein Training ja muss). Der Opening Explorer --> kostenpflichtig
+* [Clubs](https://www.chess.com/clubs): Ähnlich wie bei Lichess, mit einem Chat, Turnieren, usw. usf.
+* [Taktiktraining](https://www.chess.com/puzzles): Leider auch hier mit Paywall (5 pro Tag frei). Auch hier kann systematisch bestimmte Themen traininert werden.
 
 ### Chess24
 
+Chess24 war einmal eine vollständige Plattform, mit allem drum und dran. Seit dem Verkauf der Play-Magnus-Gruppe wird Chess24 zwar in chess.com integriert (streamen von Veranstaltungen), aber seitdem sind auch einige Feature verloren gegangen. Chess24 war immer (auch) kostenfrei, man konnte auch Premium-Member werden. Seit dem Zusammenschluss ist [diese Meldung](https://new.chess24.com/premium?source=redirect-chessdb) zu sehen. Damit sind auch alle Analysemöglichkeiten, die in der Vergangenheit da waren, nicht mehr zugänglich.
+
 ### Chessbase
+
+### Chessable
+
+[Chessable](https://www.chessable.com/) war etwas besonderes, als es neu entstand. Computer Based Training, einige freie Kurse, sehr gute Trainer, und exzellentes Material. Aber jeder, der das mal versucht hat, merkt, dass man seine Grenzen hat, was man an einem Tag lernen und trainieren kann. Und für viele Trainings ist die Art nicht geeignet. Warum wird das unter den Plattformen (für Training) noch aufgeführt? Chessable hatte/hat ein interessantes Feature namens Classroom. Ich habe das mit einem Schüler mal ausprobiert, und das hat so leidlich funktioniert. Inzwischen ist das Einstellen von Inhalten deutlich einfacher, und man kann z.B. direkt mit einer Lichess-Studie starten, und mit Schülern dann durchgehen. Chat, Kamera, Ton, Schachbrett, alles integriert ...
+
+Das Einrichten des Classrooms war umständlich, d.h. man musste sich als Trainer registrieren, und die Schüler müssen alle Mitglied bei Chessable sein. Das ist meines Erachtens die größte Einschränkung.
 
 ## Spielen
 

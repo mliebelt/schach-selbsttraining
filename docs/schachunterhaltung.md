@@ -6,6 +6,7 @@ sidebar_position: 2
 * [Streamer](#streamer)
 * [Podcasts](#podcasts)
 * [Websites](#websites)
+* [Videos](#videos)
 * [Ressourcen](#ressourcen)
 
 ## Streamer
@@ -25,6 +26,12 @@ Bekannte wie Hikaru, Big Greek, .. aber auch
 Es gibt vieles, aber hier der Versuch, einiges davon kurz zu besprechen.
 
 * [Perlen vom Bodensee](https://perlenvombodensee.de/) Ungewöhnlicher Name für den Schach-Blog überhaupt. Sehr produktiv, sehr gut vernetzt, mit vielen Details auch zu Schachpolitik.
+
+## Videos
+
+Es gibt eine Vielzahl von Videos zu Schachthemen auf dem Internet zu finden. Hier einige der bekanntesten, vor allem im Bezug auf Schachtraining.
+
+* [Chessemy](https://www.chessemy.com/) Das Ehepaar Lubbe führt hier mit sehr erfahrenen Trainern (GMs und IMs).  die Kurse sind Videokurse, d.h. es gibt vorbereitetes Material zum Selbstanschauen. Die Kurse sind dabei um die 30€ jeder. --> Videomaterial
 
 ## Ressourcen
 
