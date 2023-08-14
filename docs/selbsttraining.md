@@ -3,23 +3,40 @@ sidebar_position: 1
 ---
 # Selbsttraining
 
-* [Methodik](#methodik)
-* [Aufbau und Inhalte](#aufbau-und-inhalte)
-* [Trainingsplan Beispiele](#trainingsplan-beispiele)
-* [Trainingswerkzeuge](#trainingswerkzeuge)
-* [Ressourcen](#ressourcen)
+<!-- TOC -->
+* [Selbsttraining](#selbsttraining)
+  * [Methodik](#methodik)
+  * [Aufbau und Inhalte](#aufbau-und-inhalte)
+    * [Aufbau eines Trainingsplans](#aufbau-eines-trainingsplans)
+    * [Training: Taktik](#training-taktik)
+    * [Training: Eröffnungen](#training-eröffnungen)
+    * [Training: Endspiele](#training-endspiele)
+    * [Training: Strategie?](#training-strategie)
+  * [Trainingsplan Beispiele](#trainingsplan-beispiele)
+  * [Ressourcen](#ressourcen)
+<!-- TOC -->
 
 Schach ist gegenüber vielen anderen Sportarten besonders, da man hier (unterstützt durch den Trainer, durchaus auch ohne ihn) sich selbst trainieren kann. Wichtig ist, dass ab einem bestimmten Level niemand besser werden kann, wenn er/sie nicht ins Selbsttraining einsteigt.
 
 ## Methodik
 
-Was ist das Prinzip, wie ist es aufgebaut, was ist wichtig und wesentlich.
+Was ist das Prinzip, wie ist es aufgebaut, was ist wichtig und wesentlich. Hier angelehnt an die Darstellung von Noel Studer, und entsprechend verlinkt (Buch, Templates, Blog, Newsletter). Dazu noch einige weitere Ressourcen sammeln, die hier ebenfalls verwendet werden können. Im unteren Teil dann eher die konkreten Ressourcen, wenn es um das Material geht, das verwendet werden kann.
 
 ## Aufbau und Inhalte
 
-## Trainingsplan Beispiele
+Dabei wird strukturiert am Aufbau und den Inhalten orientiert versucht, Möglichkeiten aufzuzeigen. Die konkreten Systeme werden dann im entsprechenden Bereich genannt.
 
-## Trainingswerkzeuge
+### Aufbau eines Trainingsplans
+
+### Training: Taktik
+
+### Training: Eröffnungen
+
+### Training: Endspiele
+
+### Training: Strategie?
+
+## Trainingsplan Beispiele
 
 ## Ressourcen
 

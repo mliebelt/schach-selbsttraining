@@ -3,11 +3,14 @@ sidebar_position: 2
 ---
 # Schachunterhaltung
 
-* [Streamer](#streamer)
-* [Podcasts](#podcasts)
-* [Websites](#websites)
-* [Videos](#videos)
-* [Ressourcen](#ressourcen)
+<!-- TOC -->
+* [Schachunterhaltung](#schachunterhaltung)
+  * [Streamer](#streamer)
+  * [Podcasts](#podcasts)
+  * [Websites](#websites)
+  * [Videos](#videos)
+  * [Ressourcen](#ressourcen)
+<!-- TOC -->
 
 ## Streamer
 

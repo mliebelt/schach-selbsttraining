@@ -3,8 +3,11 @@ sidebar_position: 1
 ---
 # Werkzeuge
 
-* [Chessbase](#chessbase)
-  * [Ressourcen](#ressourcen)
+<!-- TOC -->
+* [Werkzeuge](#werkzeuge)
+  * [Chessbase](#chessbase)
+    * [Ressourcen](#ressourcen)
+<!-- TOC -->
 
 Früher brauchte man zum Training ein Schachbrett samt Figuren, und Papier und Bleistift. Das ist schon lange vorbei. Hier sollten (kurz) die Werkzeuge dargestellt werden, die verfügbar sind, und die man lokal bei sich installieren muss, um sie zu verwenden. Die Nutzung von Websites hat massiv zugenommen, aber vielen ist das lokale Werkzeug dann doch noch lieber.
 
@@ -29,3 +32,11 @@ Was bietet Chessbase (die Software) nun an?
 * [Schachgeflüser 125](https://www.schachgefluester.de/frederic-friedel/) ChessBase-Gründer Frederic Friedel
 * [25 Jahre Chessbase](https://de.chessbase.com/post/25-jahre-chebase) mit der Geschichte, wie Kasparov mit der Hilfe von Chessbase im Simultan sich Vorteile verschaffte
 * [Chessbase 17 Handbuch](https://download.chessbase.com/download/pdf/cb17-deu.pdf)
+
+## Scid
+
+Scid ist public domain, und wird aktiv weiter entwickelt. Im Kern hat es dieselbe Funktionalität wie Chessbase, aber auf das Wesentliche runtergestrippt:
+
+* Partien in Datenbanken verwalten.
+* Partien mit Annotationen versehen: Tags, Kommentare, NAGs, ...
+* Graphische Symbole (leider anders als Lichess und chess.com, damit von denen nicht erkannt)
