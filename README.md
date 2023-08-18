@@ -9,10 +9,11 @@ Die "Aus- und Fortbildungen 2023" sind [hier zu finden](https://svw.info/images/
 Die aktuelle Struktur für den Kurs sieht so aus:
 
 * Online-Training am Beispiel. Grundlage für die Einheit ist die schon existierende [Einheit zu Online-Training mit Lichess und Discord](https://schachtraining-lichess-discord.netlify.app/docs/training/) ergänzt um [weiteres zum Online-Training](https://schach-selbsttraining.netlify.app/docs/onlinetraining).
-* Übersicht über die Bausteine: ??
+* Übersicht über die Bausteine: Teil des Kurses, nicht im Material enthalten
 * Teaser zu [Schul- und Jugendschach](https://schach-selbsttraining.netlify.app/docs/schuljugendschach): Was gibt es in Deutschland (und darüber hinaus)?
 * Elektronische Bretter (nicht im Repo)
 * [Selbst-Training](https://schach-selbsttraining.netlify.app/docs/selbsttraining): Wie können Schüler die verfügbaren Hilfsmittel eigenständig nutzen?
 * [Online-Schach](https://schach-selbsttraining.netlify.app/docs/schachonline) Weitere Inhalte und Übersichten
   * Dazu noch [Schachunterhaltung](https://schach-selbsttraining.netlify.app/docs/schachunterhaltung)
   * und ein [Überblick über Werkzeuge](https://schach-selbsttraining.netlify.app/docs/werkzeuge)
+  * alle [Ressourcen](https://schach-selbsttraining.netlify.app/docs/ressourcen)
