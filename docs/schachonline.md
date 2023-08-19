@@ -3,20 +3,6 @@ sidebar_position: 2
 ---
 # Schach Online
 
-<!-- TOC -->
-* [Schach Online](#schach-online)
-  * [Plattformen](#plattformen)
-    * [Lichess](#lichess)
-    * [chess.com](#chesscom)
-    * [Chess24](#chess24)
-    * [Chessbase](#chessbase)
-    * [Chessable](#chessable)
-  * [Spielen](#spielen)
-  * [Analysieren](#analysieren)
-    * [Analyse Lichess](#analyse-lichess)
-    * [Analyse Chess.com](#analyse-chesscom)
-<!-- TOC -->
-
 Hier eine Sammlung der Ressourcen, die übergreifend interessant sind. Beim Training dann werden diese referenziert.
 
 ## Plattformen
@@ -38,6 +24,11 @@ Man findet detaillierte Informationen zu Lichess [hier](https://schachtraining-l
 * [Teams](https://schachtraining-lichess-discord.netlify.app/docs/lichess#erstellung-und-nutzung-eines-teams): Damit kann man im Training typische Situationen gut unterstützen, wie Turniere anbieten, Simultan, ...
 * [Aufgaben, Spiele, ...](https://schachtraining-lichess-discord.netlify.app/docs/lichess#weitere-m%C3%B6glichkeiten-f%C3%BCr-das-training): Übersicht über die weiteren Möglichkeiten, nicht detailliert dargestellt.
 
+Lichess hat darüber reichhaltige Möglichkeiten, viele Einstellungen für alles mögliche. Teilweise könnte dies auch im Training verwendet werden. Hier beispielhaft zwei Feature:
+
+* Zen Mode: Kann man beim Spielen, bei den Puzzlen, bei Turnieren einstellen. Dabei wird nichts mehr außer dem Brett und wenn nötig die Uhr angezeigt. Kein Chat, keine anderen Elements. Der Fokus bleibt auf dem Spiel.
+* Blindschach: Dabei spielt man ohne Ansicht der Figuren, d.h. man sieht nur das Brett, aber keine Figuren darauf. Habe ich selbst nie ausprobiert, aber für (viel) bessere Spieler ist das sicher eine Möglichkeit, ihr Visualisierungsvermögen zu trainieren.
+
 ### chess.com
 
 Chess.com ist die Top-100 Plattform für Schach, die einen wahnsinnigen Zuwachs während Corona erfahren hat. Chess.com hat sehr viel Geld, und gibt das auch für Prominente und viele gute Angebote aus. Aber umgekehrt muss (viel) Geld eingenommen werden, sodass viele Angebote bei chess.com kostenpflichtig sind. 
@@ -50,7 +41,9 @@ Hier die Features, die für ein Training nützlich sein könnten:
 
 * [Analyse](https://www.chess.com/analysis?tab=analysis): Die kann zwar durchgeführt werden, ist aber leider kostenpflichtig, wenn man die Analyse speichern möchte (was man für ein Training ja muss). Der Opening Explorer → kostenpflichtig
 * [Clubs](https://www.chess.com/clubs): Ähnlich wie bei Lichess, mit einem Chat, Turnieren, usw. usf.
-* [Taktiktraining](https://www.chess.com/puzzles): Leider auch hier mit Paywall (5 pro Tag frei). Auch hier kann systematisch bestimmte Themen trainiert werden.
+* [Taktiktraining](https://www.chess.com/puzzles): Leider auch hier mit Paywall (5 pro Tag frei). Auch hier kann systematisch bestimmte Themen trainiert werden. Ich werde mir mal für 1 Monat die teuerste Lizenz holen, um hier die Möglichkeiten auszuloten.
+
+Der Eindruck zur Zeit ist, dass auch Teilnehmer des Trainings mindestens die einfachste (Gold) kostenpflichtige Version benötigen, unter Umständen sogar Platinum (für die Unterstützung der Analyse von Partien). Der Versuch mit der kostenpflichtigen Version wird dann zeigen, ob chess.com hier das gleiche Niveau hat wie Lichess.
 
 ### Chess24
 
@@ -58,18 +51,26 @@ Chess24 war einmal eine vollständige Plattform, mit allem drum und dran. Seit d
 
 ### Chessbase
 
-Chessbase hat sich neben dem Hersteller für Schachsoftware (siehe [Werkzeuge Chessbase](./werkzeuge.md#chessbase)) auch als Plattform etabliert (bzw. versucht, sich zu etablieren). Meines Erachtens ist das nicht gelungen, mein Versuch, dort ein wenig Schach zu spielen war eher kläglich. Die Chessbase Website bietet folgendes an:
+Chessbase hat sich neben dem Hersteller für Schachsoftware (siehe [Werkzeuge Chessbase](./werkzeuge.md#chessbase)) auch als Plattform etabliert (bzw. versucht, sich zu etablieren). Meines Erachtens ist das nicht gelungen, mein Versuch, dort ein wenig Schach zu spielen war eher kläglich. Die Chessbase Website bietet Folgendes an:
 
 * Aktuelle Artikel rund ums Schach, auch viel Eigenwerbung.
 * Natürlich ein Laden, in dem man Chessbase-Artikel kaufen kann.
 * Einen Bereich zum Spielen, mit gefühlt recht wenig aktiven Leuten dort. Die Oberfläche zum Analysieren und Nachspielen ist seltsam, ich kam damit nicht zurecht.
 * Werkzeuge zum Analysieren direkt habe ich nicht gefunden, man kann aber mit dem vorbereiteten Material von Chessbase arbeiten.
 
+Aus meiner Sicht ist Chessbase keine vollständige Plattform.
+
 ### Chessable
 
 [Chessable](https://www.chessable.com/) war etwas Besonderes, als es neu entstand. Computer Based Training, einige freie Kurse, sehr gute Trainer, und exzellentes Material. Aber jeder, der das mal versucht hat, merkt, dass man seine Grenzen hat, was man an einem Tag lernen und trainieren kann. Und für viele Trainings ist die Art nicht geeignet. Warum wird das unter den Plattformen (für Training) noch aufgeführt? Chessable hatte/hat ein interessantes Feature namens Classroom. Ich habe das mit einem Schüler mal ausprobiert, und das hat so leidlich funktioniert. Inzwischen ist das Einstellen von Inhalten deutlich einfacher, und man kann z.B. direkt mit einer Lichess-Studie starten, und mit Schülern dann durchgehen. Chat, Kamera, Ton, Schachbrett, alles integriert ...
 
-Das Einrichten des Classrooms war umständlich, d.h. man musste sich als Trainer registrieren, und die Schüler müssen alle Mitglied bei Chessable sein. Das ist meines Erachtens die größte Einschränkung. Danach hat man aber eine voll funktionsfähige Lernumgebung, in der man Online-Schachkurse durchführen kann. Man kann heute schwer abschätzen, ob und wie lange die Plattform in der Form weiter existieren wird ...
+Das Einrichten des Classrooms war umständlich, d.h. man musste sich als Trainer registrieren, und die Schüler müssen alle Mitglied bei Chessable sein. Das ist meines Erachtens die größte Einschränkung. Danach hat man aber eine voll funktionsfähige Lernumgebung, in der man Online-Schachkurse durchführen kann. Man kann heute schwer abschätzen, ob und wie lange die Plattform in der Form weiter existieren wird ... Es ist noch zu prüfen, ob die Classrooms von Chessable bei chess.com drin sind, oder ob das was anderes ist.
+
+### Chesstempo
+
+Chesstempo war mal die beste Website, wenn es um Taktikaufgaben ging, aber die Entwicklung dort scheint inzwischen hinterherzuhinken. Die UI ist teils alt, teils neu (auch für unerfahrene Webnutzer leicht zu sehen), und wirkt verglichen mit Lichess und chess.com nicht schön. Und leider gibt es auch hier immer wieder eine Bezahlschranke (Upgrade auf Premium, um ..., siehe [Membership](https://chesstempo.com/memberships/)).
+
+Die Möglichkeiten der Plattform sind relativ umfangreich, der Spielbereich ist aber (wie Chessbase) wenig genutzt. Wenn man gespielt hat, ist die Analzse sehr schön, gut unterstützt. Die Partiendatenbank ist recht umfangreich, aber sperrig zu verwenden, und Teile nur bei kostenpflichtigen Accounts zu bekommen. Die Schachtaktiken sind schön, auch die dort skizzierten Themenbereiche sind gut gestaltet. Das ist der Bereich, der nach wie vor ähnlich gut wie Lichess oder chess.com ist. Chesstempo hat viele weitere Feature, es ist unklar, wie gut genutzt Chesstempo ist.
 
 ## Spielen
 
@@ -81,15 +82,42 @@ Hier ein Vergleich der Plattformen.
 |--------------|-----------|--------------------------------|-----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
 | chess.com    | Viele     | 1:0; 1:1; 2:1, 3:0, usw. usf. Man kann auch frei wählen. | Swiss und Arena (von Lichess abgeschaut), die leicht anders funktionieren.                                            | Manchmal seltsame Benutzerführung, aber in Summe so gut wie Lichess. |
 | chesskid.com | Standard  | unklar, es geht um Kinder      | -                                                                                                                     | teils nett gemacht, teils nervig. Und ohne Geld auch nicht wirklich spielbar. |
-| lichess.org  | Viele     | [ähnliche Formate](https://lichess.org/) | Arena dominiert, andere wurden später hinzugefügt. Lichess ist für seine Turniere mit (SEHR) vielen Spielern bekannt. | Meines Erachtens die am besten konsistente Oberfläche (aber ich arbeite auch seit Jahren damit). |
-| Chessbase | Standard | 1:0; 3:0, 3:2; 5:0, 10:0; 15:5; frei | Scheint tot zu sein | Aus meiner Sicht zum Spielen ungeeignet, die Möglichkeiten von chess.com und Lichess sind nicht mehr einzuholen. |
-| ICC           | Standard  | Frei, über die ICC Oberfläche. | -                                                                                                                      | Ohne Geld war kein richtiges Ausprobieren möglich, zwischen 10$ (Monat) und 70$ (Jahr). |
+| Lichess      | Viele     | [ähnliche Formate](https://lichess.org/) | Arena dominiert, andere wurden später hinzugefügt. Lichess ist für seine Turniere mit (SEHR) vielen Spielern bekannt. | Meines Erachtens die am besten konsistente Oberfläche (aber ich arbeite auch seit Jahren damit). |
+| Chessbase    | Standard | 1:0; 3:0, 3:2; 5:0, 10:0; 15:5; frei | Scheint tot zu sein | Aus meiner Sicht zum Spielen ungeeignet, die Möglichkeiten von chess.com und Lichess sind nicht mehr einzuholen. |
+| Chesstempo   | Standard | Viele, frei definierbar | Unbekannt | Der Bereich, der bei Chesstempo relativ wenig gepflegt aussieht, |
+| ICC          | Standard  | Frei, über die ICC Oberfläche. | -                                                                                                                      | Ohne Geld war kein richtiges Ausprobieren möglich, zwischen 10$ (Monat) und 70$ (Jahr). |
+
+### Lichess
+
+Spielen auf Lichess hat eine Reihe von weiteren Featuren, die nicht in der Tabelle oben zu finden sind:
+
+* Freies Spielen
+  * Gewertete oder ungewertete Partien: Ungewertete Partien stehen auch nicht angemeldeten Spielern zur Verfügung.
+  * Simultan: kann von jedem registrierten Spieler eingestellt werden, mit einigen schönen Featuren, dem Simultan auch von außen zu folgen.
+  * Verschiedene Varianten von Schach, viele davon kannte ich davor nicht. Ausgenommen ist hier Bughouse (Tandem).
+* Turniere
+  * Es dominieren die (großen) Arenaturniere, bei denen man nach dem Ende einer Partie schon die nächste spielen kann. (Wurde von chess.com übernommen) Man kann jederzeit ein- und auch aussteigen, was ein großer Vorteil ist. Und man muss nach einem schnellen Blitzsieg nicht 9 Minuten auf die anderen warten.
+  * Auf vielfachen Wunsch wurden auch Schweizer Turniere eingeführt, die man kennt.
+  * Lichess hat viele Jahresturniere
+    * Frühling/Sommer/Herbst/Winter, mit > 10.000 aktiven Spielern.
+    * Monatliche Shield-Turniere, der Gewinner behält den Shield bis zum nächsten Turnier.
+    * Titled Turniere, bei denen nur Titelträger erlaubt sind. Dort wird dann viel gestreamt.
+    * ...
+  * Teams können eigene Turniere einstellen, die Teamleader sind dazu berechtigt. Das können Team-interne Turniere sein (Arena oder Schweizer System), oder auch ein Teamkampf, bei dem mehrere Teams gegeneinander antreten. Dabei kämpft man nur  gegen Mitglieder anderer Teams, und die Punkte werden addiert.
+
+### chess.com
+
+chess.com bietet vergleichbare Spielmöglichkeiten zu Lichess. Die Anzahl der Varianten ist dort noch höher, viele habe ich noch nie ausprobiert, und weiß auch nicht, ob man dort Mitspieler findet. Varianten zusätzlich sind: Bughouse (4 Spieler), Duck Chess, Fog of War, Setup Chess und Custom Rules, bei dem man die zusätzlichen Regeln selbst zusammenmixen kann.
+
+Ich finde die Turniere bei chess.com etwas unübersichtlich, ich habe auch noch keinen schnellen Weg gefunden, in aktuelle Arenaturniere einzusteigen. Wenn man auf Play > Tournaments geht, sieht man die zukünftigen Turniere. Wenn man auf Play geht, dort den Button Tournaments, landet man in der Übersicht von laufenden und zukünftigen.
+
+Die Teams von Lichess sind bei chess.com Clubs. Auch dort werden (online) Turniere organisiert, ...
 
 ## Analysieren
 
 Welche Werkzeuge bietet die Website an, welche Feature genau sind dann verfügbar, wie analysiert man damit dann? Hier wird sicher eine einfache Tabelle nicht genügen. Hier wird die Luft schon sehr viel dünner. Deshalb pro Website, die hier was zu bieten hat, ein eigene s Kapitel.
 
-### Analyse Lichess
+### Lichess
 
 Von mir seit Jahren verwendet, auch als ich noch Zugriff auf Chessbase hatte. Hat aus meiner Sicht alle Feature, die man sich dafür nur vorstellen kann. Hier einige Links in die andere Dokumentation, mit ein wenig Erläuterungen:
 
@@ -100,7 +128,7 @@ Von mir seit Jahren verwendet, auch als ich noch Zugriff auf Chessbase hatte. Ha
 * Der Übergang von gespielten Partien, dem Analysebrett oder auch dem Bretteditor ist einfach: Wenn man die Stelle kennt, ein Klick, Studie auswählen (oder neu erstellen), fertig.
 * Man kann praktisch von allen Partien aus, auch denen, die man live zuschaut, direkt in die Analyse springen. Und wenn man das ernsthaft behalten möchte, macht man eine Studie daraus.
 
-### Analyse Chess.com
+### Chess.com
 
 Vielleicht mache ich noch eine Probe (samt Geld), die Frage ist, wann das für den Kurs am besten ist. Vermutlich erst so, dass man am Kurs selbst auch das Probeabonnement haben kann. (Nachdem ich vor Jahren einmal Probleme hatte, ein kostenpflichtiges Abonnement loszuwerden, bin ich da inzwischen sehr vorsichtig).
 
@@ -111,3 +139,4 @@ Ansonsten ist chess.com eine Plattform, die alles anbietet, was man sich für Sc
 Hier eine Sammlung der Themen, die für das Training interessant sein können:
 
 * Play > Custom Classroom: Man kann dort einen eigenen Analyseraum erzeugen. An dem können dann andere Mitglieder auch teilnehmen. Man selbst benötigt für die freie Teilnahme einen höherwertigen Account.
+* 
