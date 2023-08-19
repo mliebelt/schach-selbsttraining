@@ -3,15 +3,6 @@ sidebar_position: 2
 ---
 # Schachunterhaltung
 
-<!-- TOC -->
-* [Schachunterhaltung](#schachunterhaltung)
-  * [Streamer](#streamer)
-  * [Podcasts](#podcasts)
-  * [Websites](#websites)
-  * [Videos](#videos)
-  * [Ressourcen](#ressourcen)
-<!-- TOC -->
-
 ## Streamer
 
 Bekannte wie Hikaru, Big Greek, .. aber auch

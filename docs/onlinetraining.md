@@ -4,12 +4,6 @@ sidebar_position: 1
 
 # Online Training
 
-<!-- TOC -->
-* [Online Training](#online-training)
-  * [Trainer](#trainer)
-  * [Schachakademien](#schachakademien)
-<!-- TOC -->
-
 Hier wird nicht (nochmal) das aufgeführt, was in den Schulungsunterlagen für [Online-Training mit Lichess und Discord](https://schachtraining-lichess-discord.netlify.app/docs/training) schon angeboten wird. Das ist der wesentliche Teil dieses Kapitels und des entsprechenden Kurses.
 
 Es gibt aber darüber hinaus einige Angebote online, die der Übersicht halber aufgeführt werden sollten.
@@ -17,6 +11,16 @@ Es gibt aber darüber hinaus einige Angebote online, die der Übersicht halber a
 * Trainer, die Stunden anbieten
   * [Lichess Coaches](https://lichess.org/coach) Übersicht über die Trainer, die Übungsstunden online anbieten. Dabei ist meist eine Preisspanne angegeben.
 * Akakdemien, bei denen man einsteigen kann
+
+## Online Training
+
+Der Online-Kurs wurde schon zweimal für den SVW durchgeführt. Dabei wird in 3 Einheiten (je 45 Minuten) folgendes gezeigt:
+
+* Übersicht über alle Tools, Rundgang (siehe [Übersicht Lichess und Discord](https://schachtraining-lichess-discord.netlify.app/docs/intro/#%C3%BCbersicht-lichess-und-discord) für das Material)
+* Training mit Lichess und Discord (siehe [Trainingsszenjarien](https://schachtraining-lichess-discord.netlify.app/docs/intro/#trainingsszenarien-f%C3%BCr-lichess-und-discord) für das Material)
+* Übungen (siehe [Übungen](https://schachtraining-lichess-discord.netlify.app/docs/intro/#%C3%BCbungen) für das Material)
+
+Wir werden im Kurs eine knappe Variante davon machen, da die Teilnehmer ja vor Ort sind, und wir noch einige weitere Themen haben.
 
 ## Trainer
 

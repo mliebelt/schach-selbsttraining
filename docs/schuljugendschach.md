@@ -3,9 +3,6 @@ sidebar_position: 3
 ---
 # Schul- und Jugendschach
 
-* [Schul- und Jugendschach Organisationen](#schul--und-jugendschach-organisationen)
-* [Ressourcen](#ressourcen)
-
 Was gibt es in Deutschland (und darüber hinaus), wie sind die organisiert, was kann man erwarten, was nicht? Hier eine Sammlung im wesentlich der vorhandenen Ressourcen, die Bewertung und Einschätzung erfolgt dann (mündlich) im Kurs.
 
 ## Schul- und Jugendschach Organisationen

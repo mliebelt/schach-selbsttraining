@@ -3,12 +3,6 @@ sidebar_position: 1
 ---
 # Werkzeuge
 
-<!-- TOC -->
-* [Werkzeuge](#werkzeuge)
-  * [Chessbase](#chessbase)
-    * [Ressourcen](#ressourcen)
-<!-- TOC -->
-
 Früher brauchte man zum Training ein Schachbrett samt Figuren, und Papier und Bleistift. Das ist schon lange vorbei. Hier sollten (kurz) die Werkzeuge dargestellt werden, die verfügbar sind, und die man lokal bei sich installieren muss, um sie zu verwenden. Die Nutzung von Websites hat massiv zugenommen, aber vielen ist das lokale Werkzeug dann doch noch lieber.
 
 * Chessbase: der Platzhirsch, auch wenn ich ihn nicht zeigen kann (vermutlich haben andere Leute im Kurs das Werkzeug installiert)
@@ -39,4 +33,8 @@ Scid ist public domain, und wird aktiv weiter entwickelt. Im Kern hat es dieselb
 
 * Partien in Datenbanken verwalten.
 * Partien mit Annotationen versehen: Tags, Kommentare, NAGs, ...
-* Graphische Symbole (leider anders als Lichess und chess.com, damit von denen nicht erkannt)
+* Grafische Symbole (leider anders als Lichess und chess.com, damit von denen nicht erkannt)
+
+**TO BE CONTINUED**
+
+## Lucaschess
