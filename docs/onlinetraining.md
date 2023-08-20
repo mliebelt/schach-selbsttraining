@@ -16,7 +16,7 @@ Es gibt aber darüber hinaus einige Angebote online, die der Übersicht halber a
 Der Online-Kurs wurde schon zweimal für den SVW durchgeführt. Dabei wird in 3 Einheiten (je 45 Minuten) folgendes gezeigt:
 
 * Übersicht über alle Tools, Rundgang (siehe [Übersicht Lichess und Discord](https://schachtraining-lichess-discord.netlify.app/docs/intro/#%C3%BCbersicht-lichess-und-discord) für das Material)
-* Training mit Lichess und Discord (siehe [Trainingsszenjarien](https://schachtraining-lichess-discord.netlify.app/docs/intro/#trainingsszenarien-f%C3%BCr-lichess-und-discord) für das Material)
+* Training mit Lichess und Discord (siehe [Trainingsszenarien](https://schachtraining-lichess-discord.netlify.app/docs/intro/#trainingsszenarien-f%C3%BCr-lichess-und-discord) für das Material)
 * Übungen (siehe [Übungen](https://schachtraining-lichess-discord.netlify.app/docs/intro/#%C3%BCbungen) für das Material)
 
 Wir werden im Kurs eine knappe Variante davon machen, da die Teilnehmer ja vor Ort sind, und wir noch einige weitere Themen haben.
