@@ -9,7 +9,6 @@ Hier wird nicht (nochmal) das aufgeführt, was in den Schulungsunterlagen für [
 Es gibt aber darüber hinaus einige Angebote online, die der Übersicht halber aufgeführt werden sollten.
 
 * Trainer, die Stunden anbieten
-  * [Lichess Coaches](https://lichess.org/coach) Übersicht über die Trainer, die Übungsstunden online anbieten. Dabei ist meist eine Preisspanne angegeben.
 * Akakdemien, bei denen man einsteigen kann
 
 ## Online Training
@@ -30,11 +29,15 @@ Unter [Coaches](https://lichess.org/coach) findet man in der Plattform ein Verze
 
 Aus unserem Schachclub hat ein Kind damit zusätzlich Unterricht genommen, und gute Erfahrungen damit gemacht. Die eigentliche Abwicklung ist aber dann außerhalb von Lichess.
 
+Darüber hinaus gibt es bei Lichess auch die Möglichkeit, sich als Trainer für Lichess Klassen freischalten zu lassen. Leider wurde das Feature nicht weiterentwickelt. Aktuell kann damit ein Trainer Trainingsgruppen rudimentär unterstützen, er kann z.B. neue Accounts für Schüler anlegen lassen, die dann auch mit den richtigen Einstellungen (Kinderschutz) angelegt werden. Leider wird aber sonst kaum was unterstützt, dabei wäre es toll, wenn man Simultan, Turniere, ... darüber anbieten könnte.
+
 ### chess.com Coaches
 
 Auch bei chess.com gibt es ein entsprechendes [Verzeichnis](https://www.chess.com/coaches). Hier kann man nach Nationalität suchen, und sich dann direkt beim Trainer näher informieren. Sehr viele bekannte Spieler (habe bei Lara Schulze geschaut, Deutsche Meisterin 2022 ...).
 
 ## Schachakademien
+
+Ich muss vorausschicken, dass ich keine der Akademien kenne. Ich kenne die Leute, die sie durchführen (zum Teil), und habe von vielen eine hohe Meinung, aber ich kann aus der Ferne nicht beurteilen, ob die Akademien ihr Geld wert sind. Wichtig bei allen ist, dass hier Schachtrainer Geld verdienen müssen, von daher können die Akademien nicht ganz billig sein.
 
 * [Münchner Schachakademie](https://www.mucschach.de/) Angeführt von den GMs Stefan Kindermann und Gerald Hertneck, mit dem Fokus auf Kinder. Auch mit viel Suchen hatte ich Schwierigkeiten, konkrete Preise für Kurse zu bekommen. Ferienkurs für Kinder, 10 Termine, 115€ zur Orientierung.
 * [Chessence](https://chessence.de/) Nach eigener Aussage Deutschlands größte Online-Schachschule. Bietet vor allem Videokurse an, aber auch online Formate. Die adressieren den Weg zum FM ...
