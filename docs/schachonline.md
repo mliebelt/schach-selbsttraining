@@ -113,9 +113,26 @@ Ich finde die Turniere bei chess.com etwas unübersichtlich, ich habe auch noch 
 
 Die Teams von Lichess sind bei chess.com Clubs. Auch dort werden (online) Turniere organisiert, ...
 
+### Chesstempo
+
+Einstieg ist Spielen > Online Spielen, dort sieht man dann die Spielangebote, die von anderen eingestellt wurden. Man selbst ein eigenes Angebot einstellen, und dann darauf warten, dass jemand anders das annimmt. Hat bei mir gleich funktioniert (Zeit: 2:0). Nach einem Spiel bekommt man eine automatische Analyse, die eine recht gute Qualität hat. Das Brett hat alle Möglichkeiten, die man braucht, pre move geht, ziehen über drag&drop vs. klicken, ... 
+
 ## Analysieren
 
-Welche Werkzeuge bietet die Website an, welche Feature genau sind dann verfügbar, wie analysiert man damit dann? Hier wird sicher eine einfache Tabelle nicht genügen. Hier wird die Luft schon sehr viel dünner. Deshalb pro Website, die hier was zu bieten hat, ein eigene s Kapitel.
+Welche Werkzeuge bietet die Website an, welche Feature genau sind dann verfügbar, wie analysiert man damit dann? Hier wird sicher eine einfache Tabelle nicht genügen. Hier wird die Luft schon sehr viel dünner. Deshalb pro Website, die hier was zu bieten hat, ein eigenes Kapitel.
+
+Die folgenden Kriterien für die Analyse sind wesentlich:
+
+* Kann die Analyse auf beliebigen Spielen durchgeführt werden?
+* Wie wird die manuelle und automatische Analyse unterstützt?
+* Können Analysen gespeichert werden?
+* Kann man Züge annotieren?
+* Kann man Analysen mit anderen Spielern oder sogar anonym teilen?
+
+In Summe ist aber die Vermutung:
+
+* Lichess kann uneingeschränkt zur Analyse eingesetzt werden. Alle Feature, die notwendig sind, werden unterstützt.
+* chess.com kann mit einer kostenpflichtigen Mitgliedschaft empfohlen werden, dann sind die bereitgestellten Feature vergleichbar.
 
 ### Lichess
 
@@ -139,4 +156,9 @@ Ansonsten ist chess.com eine Plattform, die alles anbietet, was man sich für Sc
 Hier eine Sammlung der Themen, die für das Training interessant sein können:
 
 * Play > Custom Classroom: Man kann dort einen eigenen Analyseraum erzeugen. An dem können dann andere Mitglieder auch teilnehmen. Man selbst benötigt für die freie Teilnahme einen höherwertigen Account.
-* 
+
+### Chesstempo
+
+Chesstempo erstellt für alle Partien, die man selbst (online) gespielt hat, eine automatische Analyse. Diese wird aber serverseitig erstellt. Wenn man die Stellung durchspielt, dann bekommt man keine Unterstützung durch eine Engine. Wenn man einen kostenpflichtigen Account hat, bekommt man eine serverseitige Engine zur Verfügung gestellt.
+
+Die UI zur Analyse ist gewöhnungsbedürftig, scheint aber alles zu haben, was man dafür benötigt. Es ist mir noch nicht gelungen, eine Analyse in der Art von Studie wie bei Lichess durchzuführen. Man benötigt dazu eine eigene (oder fremde) Partie. Von daher kann Chesstempo für das Training nur eingeschränkt verwendet werden. Ich werde noch mit der Gold-Mitgliedschaft (3,67 Euro im Monat) noch Versuche machen.
