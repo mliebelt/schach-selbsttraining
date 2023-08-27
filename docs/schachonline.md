@@ -70,7 +70,9 @@ Das Einrichten des Classrooms war umständlich, d.h. man musste sich als Trainer
 
 Chesstempo war mal die beste Website, wenn es um Taktikaufgaben ging, aber die Entwicklung dort scheint inzwischen hinterherzuhinken. Die UI ist teils alt, teils neu (auch für unerfahrene Webnutzer leicht zu sehen), und wirkt verglichen mit Lichess und chess.com nicht schön. Und leider gibt es auch hier immer wieder eine Bezahlschranke (Upgrade auf Premium, um ..., siehe [Membership](https://chesstempo.com/memberships/)).
 
-Die Möglichkeiten der Plattform sind relativ umfangreich, der Spielbereich ist aber (wie Chessbase) wenig genutzt. Wenn man gespielt hat, ist die Analzse sehr schön, gut unterstützt. Die Partiendatenbank ist recht umfangreich, aber sperrig zu verwenden, und Teile nur bei kostenpflichtigen Accounts zu bekommen. Die Schachtaktiken sind schön, auch die dort skizzierten Themenbereiche sind gut gestaltet. Das ist der Bereich, der nach wie vor ähnlich gut wie Lichess oder chess.com ist. Chesstempo hat viele weitere Feature, es ist unklar, wie gut genutzt Chesstempo ist.
+Die Möglichkeiten der Plattform sind relativ umfangreich, der Spielbereich ist aber (wie Chessbase) wenig genutzt. Wenn man gespielt hat, ist die Analyse sehr schön, gut unterstützt. Leider kann man die Engines nur mit einem kostenpflichtigen Account nutzen.
+
+Die Partiendatenbank ist recht umfangreich, aber sperrig zu verwenden, und Teile nur bei kostenpflichtigen Accounts zu bekommen. Die Schachtaktiken sind schön, auch die dort skizzierten Themenbereiche sind gut gestaltet. Das ist der Bereich, der nach wie vor ähnlich gut wie Lichess oder chess.com ist. Chesstempo hat viele weitere Feature, es ist unklar, wie gut genutzt Chesstempo ist.
 
 ## Spielen
 
@@ -159,6 +161,33 @@ Hier eine Sammlung der Themen, die für das Training interessant sein können:
 
 ### Chesstempo
 
-Chesstempo erstellt für alle Partien, die man selbst (online) gespielt hat, eine automatische Analyse. Diese wird aber serverseitig erstellt. Wenn man die Stellung durchspielt, dann bekommt man keine Unterstützung durch eine Engine. Wenn man einen kostenpflichtigen Account hat, bekommt man eine serverseitige Engine zur Verfügung gestellt.
+Chesstempo erstellt für alle Partien, die man selbst (online) gespielt hat, eine automatische Analyse. Diese wird aber serverseitig erstellt. Wenn man die Stellung durchspielt, dann bekommt man keine Unterstützung durch eine Engine. Wenn man einen kostenpflichtigen Account hat, bekommt man eine serverseitige Engine zur Verfügung gestellt. Diese funktioniert ausreichend gut, ist aber nicht so einfach zu finden und zu bedienen.
 
 Die UI zur Analyse ist gewöhnungsbedürftig, scheint aber alles zu haben, was man dafür benötigt. Es ist mir noch nicht gelungen, eine Analyse in der Art von Studie wie bei Lichess durchzuführen. Man benötigt dazu eine eigene (oder fremde) Partie. Von daher kann Chesstempo für das Training nur eingeschränkt verwendet werden. Ich werde noch mit der Gold-Mitgliedschaft (3,67 Euro im Monat) noch Versuche machen.
+
+## Apps der Plattformen
+
+Einige der Plattformen bieten auch Apps für Android oder iOS an, und man sollte wenigstens das Bekannte über die Apps notieren. Dabei muss man teils noch unterscheiden, ob man die Apps auf einem Handy oder einem Tablett nutzt.
+
+### Lichess
+
+Die App habe und nutze ich schon lange, und kenne ihre Einschränkungen recht genau. Sie bietet einige der Feature von Lichess (Web-Version) an, aber lange nicht alle. Die für das Training wichtigste Einschränkungen sind:
+
+* Man kann mit der App nicht sinnvoll Studien anlegen, verwalten oder ändern. Wir erleben hier immer wieder Überraschungen ...
+* Und selbst als Leser einer Studie funktioniert nicht alles genau so,  wie bei der Web-Oberfläche.
+
+Die App nutzt natürlich (wie alle anderen Apps auch) den Account, den der Spieler schon hat. Damit kann man leicht zwischen den verschiedenen Geräten hin- und herwechseln, und hat jeweils Zugriff auf die eigenen Spiele, Analysen, Nachrichten usw.
+
+Es gibt die Info, dass die App aktuell (Mitte 2023) neu entwickelt wird, aber leider noch nicht verfügbar ist. Siehe das [Interview mit dem Lead-Entwickler](https://lichess.org/blog/Y2Z47hEAAGUB7i7A/lichess-recruits-full-time-mobile-developer) für Details.
+
+### chess.com
+
+Hat sich über die Jahre ebenfalls entwickelt, und deckt einen Großteil der Möglichkeiten von chess.com ab. Ich war positiv überrascht, als ich die App wieder verwendet hatte, und für Puzzles und schnelle Spiele ist die App mehr als ausreichend. Ich hatte noch nicht die Gelegenheit, mit die Analyse detailliert anzuschauen, aber ich vermute, dass die App hier auch nicht besser ist als die Web-App.
+
+### Chesstempo
+
+Es war eine Überraschung, dass es diese App überhaupt gibt, aber leider keine Überraschung, wie seltsam sie funktioniert. Die Web-Oberfläche ist gewöhnungsbedürftig, aber für Fans sicher noch ok. Die Taktik-Möglichkeiten gibt es größtenteils, und das wäre eine gute Nachricht, dafür ist Chesstempo auch wirklich gut geeignet.
+
+### Chessable
+
+Ist eine leichtgewichtige Oberfläche, um vor allem das Trainieren von Büchern zu unterstützen. Ich hatte das im Urlaub schon dabei, und habe dann jeden Tag 1-2 Stunden mit dem Training von Varianten verbracht. Funktioniert gut, ist ausreichend. Weitere Feature habe ich dort nicht gesucht, und damit auch nicht vermisst.
