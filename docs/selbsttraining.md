@@ -42,6 +42,21 @@ Das ist die Form des Trainings, die online am leichtesten erfolgen kann. Hier ei
 
 Unklar, ob man hier wirklich was empfehlen kann. Bisher eher Negativerfahrungen mit untauglichem Material und/oder Lernansatz.
 
+### Training: Analyse
+
+Es ist wichtig, dass ein Schach-Lernender seine eigenen Partien selbständig analysiert. Das hat viele Gründe: es schult die Rechenfähigkeiten; man versteht eher, was man gespielt hat, wenn man es in der Analyse erklären kann; Engines haben keine Idee vom Spiel, sie gewinnen einfach; ...
+
+Von daher ist es wichtig, dass im Trainingsplan die Analyse der eigenen Partien mit vorgesehen ist.
+
+Was muss man hier beim Selbsttraining beachten:
+
+* Die eigene Analyse sollte vom Computer unterstützt werden, wenn möglich online (d.h. lokal installierte Werkzeuge wie Chessbase sind zweite Wahl).
+* Es muss möglich sein, ganze Partien, aber auch Stellungen und Abspiele effizient zu erfassen und zu kommentieren.
+* Zum Kommentieren ist wichtig, dass
+  * NAGs (!,?,!?, ...) und
+  * textuelle Kommentare unterstützt werden.
+* Es ist ein Plus, wenn man die Engine abschalten kann (und es gehört einige Disziplin dazu, das dann auch wirklich zu tun).
+
 ## Trainingsplan Beispiele
 
 ## Ressourcen
@@ -49,14 +64,18 @@ Unklar, ob man hier wirklich was empfehlen kann. Bisher eher Negativerfahrungen 
 * [Ansatz Noel Studer](https://nextlevelchesscourses.teachable.com/p/next-level-training) Der Ansatz wird im Kurs vorgestellt.
   * [Blog von Noel](https://nextlevelchess.blog/) mit Themen aus seinem großen Thema
   * [The Art of Chess Training](https://drive.google.com/file/d/1oQWQmecuDpbC8t0h6KMrBTvDeEz5Ph17/view?usp=sharing) öffentliches Buch von Noel. Kann auch [hier](https://nextlevelchess.blog/) heruntergeladen werden.
-* [Chessemy](https://www.chessemy.com/): Hochklassige/-preisige Kurse von guten deutschen Trainernwie IM Jan Werle.
+  * [Aktueller Artikel auf Lichess](https://lichess.org/@/NoelStuder/blog/the-one-third-rule-how-to-take-control-of-your-chess-training/LMmytfrV) auch von Noel Studer, der das Prinzip der 1/3-Regels erklärt.
+* [Chessemy](https://www.chessemy.com/): Hochklassige/-preisige Kurse von guten deutschen Trainern wie IM Jan Werle.
 * [Chessable](https://chessable.com/): Große Auswahl an Kursen, auch kostenlos, aber oft kostenpflichtige Premium-Versionen. Viele Kurse auf Englisch.
 * [ChessTempo](https://chesstempo.com/)
   * Unter [Training > Aufgaben](https://chesstempo.com/chess-tactics/) kann man themenbezogen trainieren.
   * Unter [Training > Eröffnungstraining](https://chesstempo.com/opening-training/) hat man die Möglichkeit, eigene Repertoires zu entwickeln und diese auch zu üben.
+  * [Taktiktraining](https://youtu.be/WSAIJ2jG3Yo?feature=shared) Video von SchachmattTV, sollte man sich anschauen.
 * Videomaterial unter [Schachunterhaltung](./schachunterhaltung)
 * Trainingsplan
   * [ich-lerne-schach](https://www.ich-lerne-schach.de/public_files/Trainingsplan.pdf)
+* Analyse
+  * [Lichess Blog: how to become good at annotating your chess games](https://lichess.org/@/SayChessClassical/blog/how-to-become-good-at-annotating-your-chess-games/LEwocOqF) mit einigen wichtigen Erkenntnissen.
 * Websites
   * [Lichess](https://lichess.org) Tief behandelt, auch zum Selbststudium geeignet.
   * [Chess.com](https://chess.com) **Die** kommerzielle Website, das Facebook des Schachs.

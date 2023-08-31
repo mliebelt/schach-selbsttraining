@@ -35,7 +35,7 @@ Chess.com ist die Top-100 Plattform für Schach, die einen wahnsinnigen Zuwachs 
 
 ![Preise für chess.com](chesscom-preise.jpg)
 
-D.h. wenn man kein Geld bezahlt, dann entfällt alles, wo im Bild oben unlimited steht.
+Ich habe mal die Premium-Membership (all inklusive) für 1 Monat (== 18 Euro) genommen, und musste dann suchen, wie ich die Erneuerung wieder loswerde. 
 
 Hier die Features, die für ein Training nützlich sein könnten:
 
@@ -134,7 +134,7 @@ Die folgenden Kriterien für die Analyse sind wesentlich:
 In Summe ist aber die Vermutung:
 
 * Lichess kann uneingeschränkt zur Analyse eingesetzt werden. Alle Feature, die notwendig sind, werden unterstützt.
-* chess.com kann mit einer kostenpflichtigen Mitgliedschaft empfohlen werden, dann sind die bereitgestellten Feature vergleichbar.
+* chess.com kann mit einer kostenpflichtigen Mitgliedschaft empfohlen werden, dann sind die bereitgestellten Features vergleichbar.
 
 ### Lichess
 
@@ -147,17 +147,23 @@ Von mir seit Jahren verwendet, auch als ich noch Zugriff auf Chessbase hatte. Ha
 * Der Übergang von gespielten Partien, dem Analysebrett oder auch dem Bretteditor ist einfach: Wenn man die Stelle kennt, ein Klick, Studie auswählen (oder neu erstellen), fertig.
 * Man kann praktisch von allen Partien aus, auch denen, die man live zuschaut, direkt in die Analyse springen. Und wenn man das ernsthaft behalten möchte, macht man eine Studie daraus.
 
+Weiter interessant für die Analyse können sein:
+
+* Account > Chess Insights: Hier werden Partien automatisch analysiert und man bekommt Statistiken zu Eröffnungen, Endspielen etc. angezeigt. Bei mir hat Lichess die letzten 10.000 Partien in Betracht gezogen, und man bekommt typische Fragestellungen angeboten, die dann detaillierte Reports liefern. Auf den ersten Blick sehr viel besser als chess.com, aber selbst wenig verwendet.
+
 ### Chess.com
 
-Vielleicht mache ich noch eine Probe (samt Geld), die Frage ist, wann das für den Kurs am besten ist. Vermutlich erst so, dass man am Kurs selbst auch das Probeabonnement haben kann. (Nachdem ich vor Jahren einmal Probleme hatte, ein kostenpflichtiges Abonnement loszuwerden, bin ich da inzwischen sehr vorsichtig).
+Unter [learn > analysis](https://www.chess.com/analysis?tab=analysis) ist der Einstieg. Man kann dort ein PGN hochladen, und das dann mit oder ohne Engine untersuchen. Ich habe keine Möglichkeit gefunden, eigene Kommentare hinzuzufügen (seltsam). Und ich konnte auch (trotz Premium-Account) keine Möglichkeit finden, wie man die Stellung speichern kann. Erst wenn man einige Züge gemacht hat, erst dann kann man die Studie / Analyse speichern. Diese wird dann irgendwie global gespeichert, aber nicht in einer Bibliothek. Erst durch "Add to Library" (rechts unten) kann man eine neue Bibliothek anlegen, dort die Studie hinzufügen.
 
-Unter [learn > analysis](https://www.chess.com/analysis?tab=analysis) ist der Einstieg. Man kann dort ein PGN hochladen, und das dann mit oder ohne Engine untersuchen. Ich habe keine Möglichkeit gefunden, eigene Kommentare hinzuzufügen (seltsam).
-
-Ansonsten ist chess.com eine Plattform, die alles anbietet, was man sich für Schach nur vorstellen kann. Die Varianten, die es dort gibt, sind endlos, und es macht sicher Spaß, einige davon auch auszuprobieren.
+Wenn man die Analyse sharen möchte, so ist das nicht so einfach möglich. Wenn man Stockfish verbergen möchte, so ist das ebenfalls nicht trival, standardmäßig läuft er immer mit. Man muss dann explizit unter Analysis Evaluation und Lines ausschalten, damit man die Züge nicht zu sehen bekommt.
 
 Hier eine Sammlung der Themen, die für das Training interessant sein können:
 
 * Play > Custom Classroom: Man kann dort einen eigenen Analyseraum erzeugen. An dem können dann andere Mitglieder auch teilnehmen. Man selbst benötigt für die freie Teilnahme einen höherwertigen Account.
+* Learn > Aimchess: Siehe [Werkzeuge > Aimchess](./werkzeuge.md#aimchess), öffnet dann ein eigenes Tab, in dem man sich mit dem Aimchess-Account anmelden muss. Bisher noch keine direkte Integration.
+* Learn > Chessable: Siehe [Chessable](#chessable), auch dort separate Anmeldung. Wird sicher irgendwann komplett integriert sein.
+
+Unter Learn > Insights bekommt man einen Bericht zu den Partien, die man auf chess.com gespielt hat. Das hatte ich mal erzeugt, und ja, es sind viele Details, aber ob die helfen, das eigene Spiel zu verbessern ist doch höchst fraglich. Bei Lichess kann man auch so einen Report erzeugen.
 
 ### Chesstempo
 
