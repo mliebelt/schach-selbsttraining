@@ -35,7 +35,7 @@ Chess.com ist die Top-100 Plattform für Schach, die einen wahnsinnigen Zuwachs 
 
 ![Preise für chess.com](chesscom-preise.jpg)
 
-Ich habe mal die Premium-Membership (all inklusive) für 1 Monat (== 18 Euro) genommen, und musste dann suchen, wie ich die Erneuerung wieder loswerde. 
+Ich habe mal die Premium-Membership (all inklusive) für 1 Monat (== 18 Euro) genommen, und musste dann suchen, wie ich die Erneuerung wieder loswerde. Eine Anmeldung ist sonst kostenfrei, und man kann sich auch einfach über Google, Apple, Facebook anmelden.
 
 Hier die Features, die für ein Training nützlich sein könnten:
 
@@ -43,7 +43,7 @@ Hier die Features, die für ein Training nützlich sein könnten:
 * [Clubs](https://www.chess.com/clubs): Ähnlich wie bei Lichess, mit einem Chat, Turnieren, usw. usf.
 * [Taktiktraining](https://www.chess.com/puzzles): Leider auch hier mit Paywall (5 pro Tag frei). Auch hier kann systematisch bestimmte Themen trainiert werden. Ich werde mir mal für 1 Monat die teuerste Lizenz holen, um hier die Möglichkeiten auszuloten.
 
-Der Eindruck zur Zeit ist, dass auch Teilnehmer des Trainings mindestens die einfachste (Gold) kostenpflichtige Version benötigen, unter Umständen sogar Platinum (für die Unterstützung der Analyse von Partien). Der Versuch mit der kostenpflichtigen Version wird dann zeigen, ob chess.com hier das gleiche Niveau hat wie Lichess.
+Der Eindruck zur Zeit ist, dass auch Teilnehmer des Trainings mindestens die einfachste (Gold) kostenpflichtige Version benötigen, unter Umständen sogar Platinum (für die Unterstützung der Analyse von Partien). Der Versuch mit der kostenpflichtigen Version wird dann zeigen, ob chess.com hier das gleiche Niveau hat wie Lichess. Nachtrag: Der Besuch des Trainingsraums war kostenfrei, aber das ist auch nur ein Teil des Trainings.
 
 ### Chess24
 
@@ -155,11 +155,18 @@ Weiter interessant für die Analyse können sein:
 
 Unter [learn > analysis](https://www.chess.com/analysis?tab=analysis) ist der Einstieg. Man kann dort ein PGN hochladen, und das dann mit oder ohne Engine untersuchen. Ich habe keine Möglichkeit gefunden, eigene Kommentare hinzuzufügen (seltsam). Und ich konnte auch (trotz Premium-Account) keine Möglichkeit finden, wie man die Stellung speichern kann. Erst wenn man einige Züge gemacht hat, erst dann kann man die Studie / Analyse speichern. Diese wird dann irgendwie global gespeichert, aber nicht in einer Bibliothek. Erst durch "Add to Library" (rechts unten) kann man eine neue Bibliothek anlegen, dort die Studie hinzufügen.
 
+Die Analyse selbst ist gewöhnungsbedürftig. Hier die Feature, die man braucht:
+* Züge machen: Geht, aber leider wird das bei anderen, mit denen geshared wird, nicht angezeigt.
+* Sharen: Scheint zu gehen, zumindest kann man in der Bibliothek angeben, wer Zugriff haben soll.
+
 Wenn man die Analyse sharen möchte, so ist das nicht so einfach möglich. Wenn man Stockfish verbergen möchte, so ist das ebenfalls nicht trival, standardmäßig läuft er immer mit. Man muss dann explizit unter Analysis Evaluation und Lines ausschalten, damit man die Züge nicht zu sehen bekommt.
 
 Hier eine Sammlung der Themen, die für das Training interessant sein können:
 
 * Play > Custom Classroom: Man kann dort einen eigenen Analyseraum erzeugen. An dem können dann andere Mitglieder auch teilnehmen. Man selbst benötigt für die freie Teilnahme einen höherwertigen Account.
+  * Ein erster Versuch mit einem zusätzlichen Account hat ähnliche Möglichkeiten, wie bei Lichess ergeben, aber doch nicht ganz alle Möglichkeiten.
+  * Unterschiede: Man muss komplette Kontrolle / Weiß / Schwarz erlauben, ansonsten kann der Teilnehmer nichts tun. Der Coach schaltet die Engine ein/aus, der Teilnehmer kann das nicht. Den Chat hat nur der Teilnehmer gesehen ...
+  * Positiv: Man hat Ton/Kamera direkt integriert, konnte ich alleine aber nicht ausprobieren. Kein zusätzliches Werkzeug nötig. Der Teilnehmer kann teilnehmen auch mit einer kostenfreien Version (sieht dann halt Werbung).
 * Learn > Aimchess: Siehe [Werkzeuge > Aimchess](./werkzeuge.md#aimchess), öffnet dann ein eigenes Tab, in dem man sich mit dem Aimchess-Account anmelden muss. Bisher noch keine direkte Integration.
 * Learn > Chessable: Siehe [Chessable](#chessable), auch dort separate Anmeldung. Wird sicher irgendwann komplett integriert sein.
 
