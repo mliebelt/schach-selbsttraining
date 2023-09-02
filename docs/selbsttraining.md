@@ -52,19 +52,58 @@ Dabei ist der Vorschlag, 6 Termine jede Woche einzuplanen, ab 7. Tag dann Pause 
 
 Das ist die Form des Trainings, die online am leichtesten erfolgen kann. Hier einige Zusammenfassungen, mit Links zu Details. 
 
-* Lichess: Einstieg über [Aufgaben](https://lichess.org/training).  Dort kann man dann selbst bestimmen, welche Art von Taktikaufgaben man üben möchte
-  * Quer Beet, auf einem bestimmten Niveau
-  * Phasen- oder Motiv-bezogen
-  * Über Verbesserungsbereiche
-  * Taktiken aus den eigenen Partien
-* Lernkontrolle bei Lichess ist über Aufgaben > Aufgabenverlauf einfach möglich. Man bekommmt tagesgenau angezeigt, welche Aufgaben man gelöst hat, mit welchem Ergebnis.
-* chess.com: Einstieg über [Puzzles](https://www.chess.com/puzzles). Man kann hier wirklich schöne Puzzle finden, aber es ist relativ komplex. Und ich habe keinen Weg gefunden, wie man das für einen Trainierenden vorbereiten kann. Der Fokus ist hier klar auf Gamification (Punkte holen, aufsteigen, besser als die anderen werden). Unter Profile > Stats > Full Stats > Puzzles habe ich was gefunden. Ganz unten unter Recent Puzzles kann man sich seine Puzzles anschauen, und damit Ergebnisse erfassen.
-  * [Lessons](https://www.chess.com/lessons) Kleine Videos, verbunden mit Übungen zu taktischen Themen. Die Themen sind vorbereitet, alles auf English, aber ist auf jeden Fall hilfreich. 
-  * Unter Puzzles > Custom kann man Themen und Schwierigkeiten auswählen, und damit dann die richtigen Dinge üben.
-* Chesstempo: Einstieg über [Schachtaktiken](https://chesstempo.com/chess-tactics/), hat eine wohl recht umfangreiche Datenbank von Aufgaben. Hier kann man sich auch eigene Trainingspläne zusammenstellen. Chesstempo hat (für Gold-Member) die Möglichkeit, dass ein Trainer für seine Schüler Trainingsziele erstellen kann. In der [Hilfe zu Training Targets](https://chesstempo.com/manual/en/manual.html#trainingtargets) wird das erklärt. Zu dem Feature habe ich aber wenig sonst gefunden, mir ist auch nicht klar, was man sonst mit Schülern machen kann.
+* Lichess
+  * Einstieg über [Aufgaben](https://lichess.org/training).  Dort kann man dann selbst bestimmen, welche Art von Taktikaufgaben man üben möchte
+    * Quer Beet, auf einem bestimmten Niveau
+    * Phasen- oder Motiv-bezogen
+    * Über Verbesserungsbereiche
+    * Taktiken aus den eigenen Partien
+  * Lernkontrolle bei Lichess ist über Aufgaben > Aufgabenverlauf einfach möglich. Man bekommmt tagesgenau angezeigt, welche Aufgaben man gelöst hat, mit welchem Ergebnis.
+  * Stellen der Aufgaben: Wenn man ein Thema ausgewählt hat, dann ist der Link sprechend, und kann durch den Trainierenden einfach aufgerufen werden. Beispiel: [https://lichess.org/training/hangingPiece](https://lichess.org/training/hangingPiece) == Hängende Figur. Der Schwierigkeitsgrad ist voreingestellt (normal), und kann vom Trainer nicht beeinflusst werden.
+* chess.com
+  * Einstieg über [Puzzles](https://www.chess.com/puzzles). Man kann hier wirklich schöne Puzzle finden, aber es ist relativ komplex. Und ich habe keinen Weg gefunden, wie man das für einen Trainierenden vorbereiten kann. Der Fokus ist hier klar auf Gamification (Punkte holen, aufsteigen, besser als die anderen werden). Unter Profile > Stats > Full Stats > Puzzles habe ich was gefunden. Ganz unten unter Recent Puzzles kann man sich seine Puzzles anschauen, und damit Ergebnisse erfassen.
+    * [Lessons](https://www.chess.com/lessons) Kleine Videos, verbunden mit Übungen zu taktischen Themen. Die Themen sind vorbereitet, alles auf English, aber ist auf jeden Fall hilfreich. 
+    * Unter Puzzles > Custom kann man Themen und Schwierigkeiten auswählen, und damit dann die richtigen Dinge üben.
+  * Lernkontrolle ist etwas komplizierter, aber über Home > Stats > Puzzles kann man unten im Schirm die Puzzles finden, jedoch ohne Kategorie. Wenn man das direkt nach dem Training macht, sollte das genügen.
+  * Stellen der Aufgaben: Der Trainer muss dem Trainierenden erklären, wie er die richtigen Puzzles auswählt. Schritte sind: Puzzles > Custom Puzzles > Thema: <THEMA\>; der Schüler muss es dann in der Übung korrekt auswählen. Unter Umständen kann ein angemeldeter Trainierender über den Link https://www.chess.com/puzzles/learning den Einstieg leicht bekommen, dann den Ratingbereich auswählen, und das richtige Thema.
+* Chesstempo
+  * Einstieg über [Schachtaktiken](https://chesstempo.com/chess-tactics/), hat eine recht umfangreiche Datenbank von Aufgaben, die viel schwieriger wirkt als die von Lichess oder chess.com. Siehe auch das Video [Taktiktraining](https://youtu.be/WSAIJ2jG3Yo?feature=shared) von SchachmattTV, der in den höchsten Tönen von Chesstempo schwärmt.Hier kann man sich auch eigene Trainingspläne zusammenstellen. Chesstempo hat (für Gold-Member) die Möglichkeit, dass ein Trainer für seine Schüler Trainingsziele erstellen kann. In der [Hilfe zu Training Targets](https://chesstempo.com/manual/en/manual.html#trainingtargets) wird das erklärt. Zu dem Feature habe ich aber wenig sonst gefunden, mir ist auch nicht klar, was man sonst mit Schülern machen kann.
+  * Lernkontrolle: Es gibt wohl unter Statistiken > Taktiken viel Material, aber ich habe noch nicht verstanden, wie ich dort herausbekomme, wie viele Aufgaben, an welchem Tag, mit welchem Ergebniss ich dort finde. Zumindest für jüngere Schüler ist das vermutlich nicht bedienbar.
+  * Stellen der Aufgaben: Wenn man als Trainer über den richtigen Weg geht (Training > Schachtaktiken), dann muss man noch den richtigen Schwierigkeitsgrad (Leicht/Mittel/Schwer) wählen, und die richtige Sammlung. Die vermutlich interessanten sind unter Themen und Motive > Taktische Motive zu finden.
 
 
 ### Training: Eröffnungen
+
+Hier sieht es schon sehr viel dünner aus, es ist auch nicht ganz klar, was ein gutes Eröffnungstraining (für Selbstlerner) sein kann. Im Regelfall geht es vermutlich darum, ein bestimmtes Repertoire "drauf zu haben". 
+
+Die aus Sicht eines Trainers wichtigen Dinge könnten sein:
+
+* Welche Eröffnung samt Variante möchte ich üben?
+* Wie sieht die Lernkontrolle dabei aus?
+
+Hier einige Beispiele der Plattformen, aber von anderen Websites, wie man Eröffnungen für sich trainieren kann.
+
+* Lichess
+  * Lichess scheint zur Zeit was zu entwickeln. über [Werkzeuge > Eröffnungen](https://lichess.org/opening) landet man in einem Explorer, in dem man sich Eröffnungen (samt Erklärungen) anschauen kann. Leider sind die Erklärungen nach einigen Zügen nicht mehr da (schließlich muss die ein Mensch einpflegen), und man sieht nur Statistiken.
+  * Was wir in der Vergangenheit gemacht haben, war, eine Studie mit einem bestimmten Eröffnungsrepertoire zu entwickeln. Das kann dann wie alle Studien geshared werden, und man kann auch explizit Übungen dazu entwickeln. Das ist (sehr) aufwändig, aber am Ende vom Tag die beste Möglichkeit, in Lichess Entwicklungen zu üben.
+  * Lichess ist zum Eröffnungstraining aktuell nicht direkt geeignet, mal sehen, was in nächster Zeit kommt.
+* chess.com
+  * Chess.com bietet unter [Lernen > Eröffnungen](https://www.chess.com/openings) auch einen Eröffnungsexplorer an, dazu noch einige Einstiegskurse in Eröffnungen: 
+    * Prinzipien (6 kurze Videos, english, mit deutschen Erklärungen)
+    * Bekannte Eröffnungen (8 Videos, mit Aufgaben)
+    * Daneben viele Videos mit Eröffnungsbezug, zwischen 10 und 30 Minuten lang. 
+  * Aus meiner Sicht ist das zwar nett, aber wenig systematisch. Die Übungen nach den Videos sind nur wenige, und als Übungen nicht ausreichend.
+* Chesstempo
+  * Mit Chesstempo kann man eigene Eröffnungsbibliotheken aufbauen, und sich dabei von der Partiedatenbank und der Engine unterstützen lassen. Das ist recht kompliziert, und ich habe noch keinen Weg gefunden, wie ich das von mir entwickelte Repertoire anderen zur Verfügung stellen kann. Das Brett hat auch noch verschiedene andere Macken, und ich wollte nicht zu viel Zeit investieren. Hier einige Anmerkungen:
+    * Kommentare zu Positionen sind geshared (was Quatsch ist), man kann sie aber privat machen. Bei mir waren sie immer zweimal angezeigt.
+    * Es ist mir nicht gelungen, einmal gespielte Varianten zu ändern. Man konnte immer nur hinzufügen.
+  * Von daher, die Ansätze sind da, aber ich weiß nicht, ob man Chesstempo wirklich richtig bedienen kann, um das zu erreichen, was man hinbekommen möchte.
+* [Chessable](https://www.chessable.com/)
+  * Ist meines Erachtens das bisher beste Portal, um Eröffnungen (und anderes) tief zu trainieren. Dem liegt aber ein kommerzielles Modell zugrunde, d.h. ohne Geld auszugeben, wird man wenig geeignetes Material finden, das einen zufrieden stellt. Also wer konkret weiß, was er üben möchte, und der bereit ist, dafür Geld auszugeben, der findet bei Chessable mehr als genug Möglichkeiten.
+  * Variante: Es gibt die Möglichkeit, gezielt bestimmte Varianten zu üben. Der Trainierende muss das lernen, und dann richtig verwenden können.
+  * Lernkontrolle: Man bekommt zu den Linien, die man geübt hat, Statistiken angezeigt, und man kann diese wieder trainieren, mit Fokus auf die Fehler, die man gemacht hatte.
+* [Chessbook](https://chessbook.com/)
+  * Frisch entdeckt, mit Fokus auf ausschließlich Eröffnungen. Man baut ein eigenes Repertoire für Weiß und Schwarz auf, und kann das dann gezielt trainieren. Für die Einsteiger mehr als ausreichend, aber man muss das Repertoire erst mal reinbekommen. Aus meiner Sicht ein guter Ansatz, aber noch nicht fertig. Aktuell kann niemand sagen, wo das hingehen wird.
 
 ### Training: Endspiele
 
