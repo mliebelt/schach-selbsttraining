@@ -107,6 +107,13 @@ Hier einige Beispiele der Plattformen, aber von anderen Websites, wie man Eröff
 
 ### Training: Endspiele
 
+Beim Selbsttraining der Endspiele gibt es meines Erachtens 2 verschiedene Arten:
+
+* (rein) technische Endspiele, die man beherrschen sollte
+* Endspiele, bei denen eine Kombination von rechnen und wissen wichtig ist
+
+Und natürlich ist der Übergang fließend. Zum Selbsttraining wäre es aber wichtig, zu verstehen, warum ein bestimmter Zug gewinnt, und ein anderer eben nicht. Und ich habe Zweifel, dass die zweite Form über Training mit/gegen die Maschine gelernt werden kann.
+
 **Aufführen, welche Arten von Endspieltraining man gefunden hat.**
 
 * Lichess: dort [Lernen > Trainieren](https://lichess.org/practice), gibt es aktuell Bauernendspiele, Turmendspiele, dazu auch verschiedene Mattsetzübungen.
@@ -132,6 +139,15 @@ Was muss man hier beim Selbsttraining beachten:
 * Es ist ein Plus, wenn man die Engine abschalten kann (und es gehört einige Disziplin dazu, das dann auch wirklich zu tun).
 
 ## Trainingsplan Beispiele
+
+Rafael aus unserem Club ist unter [ich-lerne-schach.de](https://ich-lerne-schach.de/) recht bekannt geworden. Er hat auch mal ein [Video](https://www.youtube.com/watch?v=sKI7vh2f-7I) gedreht. Der Plan selbst (eine Art Zusammenfassung) ist [hier zu finden](https://www.ich-lerne-schach.de/public_files/Trainingsplan.pdf).
+
+Ich lehne mich hier eher bei Noel Studer an, sein Trainingsplan ist aber auch nicht besonders, und hat nur die wesentlichen Spalten:
+
+* Wann möchte ich
+* welches Training
+* in welchem Umfang absolvieren,
+* und was kam dabei raus.
 
 ## Ressourcen
 
