@@ -145,6 +145,49 @@ Was muss man hier beim Selbsttraining beachten:
   * textuelle Kommentare unterstützt werden.
 * Es ist ein Plus, wenn man die Engine abschalten kann (und es gehört einige Disziplin dazu, das dann auch wirklich zu tun).
 
+Ich gehe mal die verschiedenen Analysemöglichkeiten der verschiedenen Plattformen durch, soweit ich sie eben verstanden habe.
+
+#### Analyse Lichess
+
+Aus meiner Sicht immer noch überragend, mit praktisch allen Featuren, die auch Chessbase bietet. Man muss hier nur das zugrundeliegende Modell verstehen. Hier mögliche Übergänge, um am Ende zu einer (speicherbaren) Analyse zu kommen.
+
+* Spiel > Analyse > Studie: Mache ich z.B., wenn ich eine schöne instruktive Partie online gespielt habe, und auch weiß, in welchem Kontext ich sie verwenden möchte.
+* Analysebrett > Studie: Man hat am Brett eine Partie gespielt, und möchte die erfassen, um sie anschließend zu analysieren.
+* Studie: Wir erstellen für unsere Mannschaften Studien, die mit den Aktiven geshared werden. Diese erfassen dann nach einem Spiel selbständig ihre Partie, und analysieren diese auch.
+* Stellung aufbauen > Analysebrett > Studie: Man hat eine Stellung, baut die auf, und überführt die Analyse in eine Studie, wenn man sie behalten möchte.
+
+Eine Besonderheit bei den Studien von Lichess ist, dass der Ersteller festlegen kann, wie eine Studie in Summe geshared werden kann, ob eine Engine verwendet werden darf oder nicht, und vor allem, ob die Kapitel der Studie für alle Betrachter "In Sync" sind. Für die einzlnen Kapitel kann man dann festlegen, welcher der 4 Modi verwendet werden soll.
+
+Lichess unterstützt alle bekannten Formate für Schachpartien: PGN, FEN, NAG, Kommentare, Zeit- und graphische Annotationen.
+
+#### Analyse chess.com
+
+War am Anfang ein wenig schwierig, man gewöhnt sich aber daran. Die überwiegende Nutzung von Analysen in chess.com scheint die "on the fly" Analyse zu sein, die man bei Streamern immer sieht. Hier fehlen dann einige Möglichkeiten, die mit Lichess zur Verfügung stehen. 
+
+Einstieg: [Lernen > Analyse](https://www.chess.com/analysis?tab=analysis) und man hat ein Brett in Ausgangsstellung. Dann kann man:
+
+* Studie importieren: Angabe einer Lichess Studie, die wird dann dargestellt. Leider werden die graphischen Annotationen nicht mit importiert.
+* Stellung aufbauen: der Bretteditor von Lichess. Funktioniert lange nicht so gut, aber reicht.
+* Am Ende kann man die Analyse einer Sammlung hinzufügen.
+
+Die Nutzung der Annotationen ist schwieriger als bei Lichess, man muss das Kontextmenu über einem Zug verwenden. Einige der Dinge sind nicht vorgesehen (Änderung von Kommentaren?), die man vermutlich verschmerzen kann. Die Studie mit anderen (online) zu teilen geht nur über das Klassenzimmer (das wieder eigene Einschränkungen hat).
+
+Meine Kritik an der Analyse ist:
+
+* Stockfish ist immer dabei, und man muss einiges abschalten, damit man selbst nachdenken muss.
+* Die Partieanalyse durch chess.com sieht schön aus, ist aber schwer dann in der eigenen Analyse zu verwenden.
+* Ein gemeinsames Arbeiten an einer Analyse ist meines Erachtens nicht möglich, nicht vorgesehen. Und das ist das, was für das Training online am Wichtigsten ist.
+
+#### Analyse ChessTempo
+
+Ist aus meiner Sicht nicht zu verwenden. Hier die wichtigsten Kritikpunkte:
+
+* Man benötigt zuerst eine online gespielte Partie, für die man dann in die Analyse einsteigen kann.
+* Es gibt kein Konzept für eigene Analysen. Die Partiedatenbank ist global, meine Partien sind einfach nur ein Filter.
+* Selbst wenn man damit leben kann, bis man die richtige Sicht gefunden hat, in der man selbst (mit oder ohne Hilfe der Engine) analysieren kann, das dauert.
+
+Für mich ist der Teil von ChessTempo für das Schachtraining absolut unbrauchbar.
+
 ## Trainingsplan Beispiele
 
 Rafael aus unserem Club ist unter [ich-lerne-schach.de](https://ich-lerne-schach.de/) recht bekannt geworden. Er hat auch mal ein [Video](https://www.youtube.com/watch?v=sKI7vh2f-7I) gedreht. Der Plan selbst (eine Art Zusammenfassung) ist [hier zu finden](https://www.ich-lerne-schach.de/public_files/Trainingsplan.pdf).
@@ -185,11 +228,8 @@ Woche: <KALENDERWOCHE\>
   * Unter [Training > Aufgaben](https://chesstempo.com/chess-tactics/) kann man themenbezogen trainieren.
   * Unter [Training > Eröffnungstraining](https://chesstempo.com/opening-training/) hat man die Möglichkeit, eigene Repertoires zu entwickeln und diese auch zu üben.
   * [Taktiktraining](https://youtu.be/WSAIJ2jG3Yo?feature=shared) Video von SchachmattTV, sollte man sich anschauen.
-* Videomaterial unter [Schachunterhaltung](./schachunterhaltung)
+* Videomaterial unter [Schachunterhaltung](./schachunterhaltung.md)
 * Trainingsplan
   * [ich-lerne-schach](https://www.ich-lerne-schach.de/public_files/Trainingsplan.pdf)
 * Analyse
   * [Lichess Blog: how to become good at annotating your chess games](https://lichess.org/@/SayChessClassical/blog/how-to-become-good-at-annotating-your-chess-games/LEwocOqF) mit einigen wichtigen Erkenntnissen.
-* Websites
-  * [Lichess](https://lichess.org) Tief behandelt, auch zum Selbststudium geeignet.
-  * [Chess.com](https://chess.com) **Die** kommerzielle Website, das Facebook des Schachs.

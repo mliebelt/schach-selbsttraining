@@ -80,7 +80,7 @@ Habe ich erst vor kurzem eher zufällig entdeckt, die Plattform spezialisiert si
 
 Von daher wird das Material nicht weiter untersucht, hier einige Bemerkungen zu den Kursen und dem Material, das man ohne zu bezahlen finden kann:
 
-*  Die Videos machen einen guten Eindruck (ich habe nur die kostenfreien Einführungsvideos gesehen), sie sind aber alle in English. Man hört sich mit der Zeit ein, aber für Kinden sind sie definitiv nicht machbar.
+*  Die Videos machen einen guten Eindruck (ich habe nur die kostenfreien Einführungsvideos gesehen), sie sind aber alle in English. Man hört sich mit der Zeit ein, aber für Kinden sind sie definitiv nicht machbar. Leider ist der Preis für einzelne Kurse sehr hoch (250-300$), und ein Abonnement mit 588$ im Jahr (mindestens) für die meisten wohl auch zu viel.
 * Der Aufbau der Kurse ist interessant, dort kann man sich einiges abschauen. D.h. alleine die Struktur, die Kapitelnamen, die Beschreibungen helfen einem als Trainer, so etwas selbst aufzubauen. Und Teile der Kurse sind frei, so bekommt man einen Einblick. Ich habe versucht, mal einzelne Kurse zu kaufen, bin aber gescheitert.
 * Der [Study Plan](https://chessmood.com/chess-study-plans) ist sehr gut, und ähnelt unserem Ansatz. Sie unterscheiden hier in Study, Practice und Fix, beim Ansatz von Noel Studer schauen wir uns nur den Study-Teil an. Hier kommen noch konkrete Ideen dazu, siehe das [Beispiel für Spieler bis 1.500 ELO](https://chessmood.com/chess-study-plans/for-intermediate-players)
 
