@@ -7,7 +7,7 @@ Schach ist gegenüber vielen anderen Sportarten besonders, da man hier (unterst�
 
 ## Methodik
 
-Was ist das Prinzip, wie ist es aufgebaut, was ist wichtig und wesentlich. Hier angelehnt an die Darstellung von Noel Studer, und entsprechend verlinkt (Buch, Templates, Blog, Newsletter). Dazu noch einige weitere Ressourcen sammeln, die hier ebenfalls verwendet werden können. Im unteren Teil dann eher die konkreten Ressourcen, wenn es um das Material geht, das verwendet werden kann.
+Was ist das Prinzip, wie ist es aufgebaut, was ist wichtig und wesentlich. Das folgende ist angelehnt an die Darstellung von Noel Studer, und entsprechend verlinkt (Buch ([The Art of Chess Training](https://drive.google.com/file/d/1oQWQmecuDpbC8t0h6KMrBTvDeEz5Ph17/view?usp=sharing)), Templates, [Blog von Noel](https://nextlevelchess.blog/), Newsletter).
 
 Hier eine kurze Zusammenfassung der Methodik von Noel Studer, wer mehr wissen möchte, der muss sich das ganze Buch antun.
 
@@ -36,7 +36,7 @@ Vorher aber noch kurz zusammengefasst, auf was man hier achten muss, damit ein T
 
 * Die Trainingsinhalte können per Link dem Trainierenden zur Verfügung gestellt werden. Der muss sicher sein, dass er/sie das richtige trainiert.
 * Der Trainierende braucht möglicherweise einen Zugang (anonym geht oft nicht), teils ist der auch kostenpflichtig. Das muss abgestimmt sein.
-* Bei vielen Trainings ist die Kontrolle am Ende wichtig. Als welche (einfachen) Möglichkeiten hat der Trainierende, Ergebnisse im Trainingsplan festzuhalten?
+* Bei vielen Trainings ist die Kontrolle am Ende wichtig. Also welche (einfachen) Möglichkeiten hat der Trainierende, Ergebnisse im Trainingsplan festzuhalten?
 
 ### Aufbau eines Trainingsplans
 
@@ -107,17 +107,24 @@ Hier einige Beispiele der Plattformen, aber von anderen Websites, wie man Eröff
 
 ### Training: Endspiele
 
-Beim Selbsttraining der Endspiele gibt es meines Erachtens 2 verschiedene Arten:
+Der Maßstab für Endspiele ist heutzutage ein Kompendium wie Silman's Complete Endgame Course. Die Hoffnung ist, dass man für die Endspiele bis 1.500 Material findet, das von Lernenden direkt verwendet werden kann. Beim Selbsttraining der Endspiele gibt es meines Erachtens 2 verschiedene Arten:
 
 * (rein) technische Endspiele, die man beherrschen sollte
 * Endspiele, bei denen eine Kombination von rechnen und wissen wichtig ist
 
 Und natürlich ist der Übergang fließend. Zum Selbsttraining wäre es aber wichtig, zu verstehen, warum ein bestimmter Zug gewinnt, und ein anderer eben nicht. Und ich habe Zweifel, dass die zweite Form über Training mit/gegen die Maschine gelernt werden kann.
 
-**Aufführen, welche Arten von Endspieltraining man gefunden hat.**
-
-* Lichess: dort [Lernen > Trainieren](https://lichess.org/practice), gibt es aktuell Bauernendspiele, Turmendspiele, dazu auch verschiedene Mattsetzübungen.
-* chess.com: unter [Learn > Endgames](https://www.chess.com/endgames), hier ein Strauß von Themen. Hat für mich gut funktioniert, nach einem Durchlauf kam die Bezahlschranke.
+* Lichess
+  * dort [Lernen > Trainieren](https://lichess.org/practice), gibt es aktuell Bauernendspiele, Turmendspiele, dazu auch verschiedene Mattsetzübungen.
+  * Es gibt unter [Zuschauen > Video-Bibliothek](https://lichess.org/video?tags=endgame) eine große Anzahl Videos, die meisten wohl in English. 
+* chess.com
+  * unter [Lernen > Endspiele](https://www.chess.com/endgames), hier ein Strauß von Themen. Das sind interaktive Lektionen, ergänzt um Herausforderungen, und Übungen. Das Lernen selbst sind kurze Videos, die für die konkreten Mattsetzdinge ausreichend sein werden (English). Wenn man sich einen komplexeren Kurs (Ungleichgewichte > Turm gegen Leichtfigur) rausnimmt, dann muss man unter 6 (längeren) Videos das richtige erst suchen. Und das sieht dann auf den ersten Blick nicht nach Endspiel aus.
+* ChessTempo
+  * Unter [Training > Schach Endspiele](https://chesstempo.com/chess-endgames/) hat man den Einstieg, und ähnlich wie bei den Taktiken muss man hier Schwierigkeitsgrad und Sammlung wählen.
+  * Man kann einfach nur trainieren (Benchmark) und sich einschätzen lassen, das hat gut funktioniert.
+  * Die technischen Endspiele sind dann heftig, und es ist nicht immer zu verstehen, warum ein Zug  nicht akzeptiert wird (ja, es geht schneller, aber kommt es darauf an?). Die Qualität und Auswahl ist sehr groß.
+  * Unter [Statistiken > Endspiele](https://chesstempo.com/stats/mliebelt63/endgames/) (personalisiert) kann man sich anschauen, wie gut man abgeschnitten hat.
+* Aimchess: die sogenannten Endgames sind nur Puzzle mit weniger Steinen, und haben nichts mit Endspielen gemein.
 
 ### Training: Strategie?
 
@@ -148,6 +155,23 @@ Ich lehne mich hier eher bei Noel Studer an, sein Trainingsplan ist aber auch ni
 * welches Training
 * in welchem Umfang absolvieren,
 * und was kam dabei raus.
+
+Ein Trainingsplan besteht aus einem Blatt Papier (online oder ausgedruckt), in dem die Trainingsinhalte und der Fortschritt jede Woche festgehalten werden. Das Folgende ist ein Entwurf, um das zu veranschaulichen, ein Template dazu habe ich (noch) nicht.
+
+Trainingsplan für: <NAME DES TRAINIERENDEN\>
+
+Woche: <KALENDERWOCHE\>
+
+| Tag | Thema | Link | Ergebnis | Dauer |
+|-----|-------|------|----------|-------|
+| Montag | Taktik: Doppelangriff (10) | LINK | 8 von 10 | 15 min |
+| Dienstag | Analyse: Partie gegen XY | LINK | Analyse gemacht | 30 min |
+| Mittwoch | Endspiele: Mattsetzen 2 Läufer | LINK |  |  |
+| Donnerstag | Taktik: Röntgenangriff (einfach, 5) | LINK |   |  |
+| Freitag | Analyse: Partie gegen ABC | LINK |    |       |
+| Samstag | Eröffnung: Greco Video anschauen, Mainline erfassen | LINK |     |      |
+| Sonntag | ist | frei | | |
+
 
 ## Ressourcen
 

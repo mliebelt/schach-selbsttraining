@@ -74,6 +74,16 @@ Die Möglichkeiten der Plattform sind relativ umfangreich, der Spielbereich ist 
 
 Die Partiendatenbank ist recht umfangreich, aber sperrig zu verwenden, und Teile nur bei kostenpflichtigen Accounts zu bekommen. Die Schachtaktiken sind schön, auch die dort skizzierten Themenbereiche sind gut gestaltet. Das ist der Bereich, der nach wie vor ähnlich gut wie Lichess oder chess.com ist. Chesstempo hat viele weitere Feature, es ist unklar, wie gut genutzt Chesstempo ist.
 
+### ChessMood
+
+Habe ich erst vor kurzem eher zufällig entdeckt, die Plattform spezialisiert sich auf Schachtraining. Sie kann genutzt werden zu Beginn, ohne Geld zu bezahlen, aber die interessanten Inhalte sind nur kostenpflichtig zu bekommen. Dazu benötigt man aber einen Account, der in zwei Varianten kommt, Essential (588$ im Jahr), oder Pro (949$ im Jahr).
+
+Von daher wird das Material nicht weiter untersucht, hier einige Bemerkungen zu den Kursen und dem Material, das man ohne zu bezahlen finden kann:
+
+*  Die Videos machen einen guten Eindruck (ich habe nur die kostenfreien Einführungsvideos gesehen), sie sind aber alle in English. Man hört sich mit der Zeit ein, aber für Kinden sind sie definitiv nicht machbar.
+* Der Aufbau der Kurse ist interessant, dort kann man sich einiges abschauen. D.h. alleine die Struktur, die Kapitelnamen, die Beschreibungen helfen einem als Trainer, so etwas selbst aufzubauen. Und Teile der Kurse sind frei, so bekommt man einen Einblick. Ich habe versucht, mal einzelne Kurse zu kaufen, bin aber gescheitert.
+* Der [Study Plan](https://chessmood.com/chess-study-plans) ist sehr gut, und ähnelt unserem Ansatz. Sie unterscheiden hier in Study, Practice und Fix, beim Ansatz von Noel Studer schauen wir uns nur den Study-Teil an. Hier kommen noch konkrete Ideen dazu, siehe das [Beispiel für Spieler bis 1.500 ELO](https://chessmood.com/chess-study-plans/for-intermediate-players)
+
 ## Spielen
 
 Beim Spielen kommt es auf die folgenden Möglichkeiten an: Welche Arten werden geboten; welche Bedenkzeiten sind verfügbar; kann man die Bedenkzeit, die man gerne mag, auch oft genug spielen; ...
