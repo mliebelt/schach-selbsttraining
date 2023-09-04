@@ -5,6 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Methodik',
+    link: 'docs/onlinetraining',
     Svg: require('@site/static/img/chess-buddies.svg').default,
     description: (
       <>
@@ -14,6 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Online Hilfsmittel',
+      link: 'docs/schachonline',
     Svg: require('@site/static/img/tools-svgrepo-com.svg').default,
     description: (
       <>
@@ -23,6 +25,7 @@ const FeatureList = [
   },
   {
     title: 'Was es sonst so gibt',
+      link: 'docs/ressourcen',
     Svg: require('@site/static/img/Pictogrammers-Material-Clouds.svg').default,
     description: (
       <>
@@ -32,14 +35,14 @@ const FeatureList = [
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({Svg, title, description, link}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
         <Svg className={styles.featureSvg} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
-        <h3>{title}</h3>
+          <h3><a href={link}>{title}</a></h3>
         <p>{description}</p>
       </div>
     </div>
