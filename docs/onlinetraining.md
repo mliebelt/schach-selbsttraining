@@ -35,8 +35,13 @@ Dort ist der Fokus auf der Nutzung von Lichess und Discord, es sind natürlich v
   * Lichess (aber ohne Discord): Man kann in einer Studie Ton dazuschalten, und sich dann direkt unterhalten. Damit braucht man kein Discord, und macht alles direkt mit Lichess.
     * Vorteile: Wenn es funktioniert, toll und einfach. Im Zentrum ist die Studie, und dort passiert alles.
     * Nachteile: Ich hatte technische Probleme, musste den Browser wechseln; wo ist der Chat für die Session (der nicht in der Studie landet)?; man muss alle Teilnehmer explizit als Mitarbeiter in die Studie eintragen.
-  * chess.com: Klassenraum **Beschreiben**
-  * Chessable: Klassenraum **Beschreiben**
+  * chess.com: Bietet inzwischen auch einen Klassenraum an. Man benötigt meines Wissens einen kostenpflichtigen Account dafür, die Teilnehmer müssen angemeldet sein. Man erstellt einen Klassenraum, importiert eine Studie (aus Lichess!) oder eine PGN, und lädt dann die Teilnehmer ein. Man muss meines Wissens den Teilnehmern auch den Namen des Klassenraums nennen (URL), dann können die Teilnehmer die Einladung annehmen. Der Klassenraum stellt neben der Studie auch Mikrofon und Video bereit (der Teilnehmer), man benötigt also keine andere Software.
+    * Vorteile: All in one Solution; nur Trainer braucht kostenpflichte Lizenz; es hat erstaunlich gut funktioniert; der Trainer kann den Zugriff auf die Engine steuern.
+    * Nachteile: Das Schachbrett im Klassenraum hat einige Nachteile gegenüber Lichess (keine verschiedenen Modi, das mit den Zügen hat nicht gut funktioniert, ...); die Teilnehmer schauen im Regelfall nur zu, und können selbst nichts tun. Die Teilnehmer waren sich einig, dass die Vorteile des Klassenraums es nicht wert sind, und die Nachteile gegenüber der Lichess-Studie gewichtiger sind.
+  * Chessable: Bietet schon länger einen Klassenraum an, der inzwischen auch gut funktioniert. Relativ ähnlich zu chess.com, die UI ist schön aufgeräumt. Teilnehmer sehen die Studie nie, also sehen nur die Züge, die schon gemacht wurden. Der Trainer hat einige Möglichkeiten, Video/Ton der Teilnehmer zu beeeinflussen.
+    * Vorteile: Relativ runde Lösung, hat sehr gut funktioniert. Toll ist, dass man einzelnen Teilnehmern die Rolle Weiß/Schwarz geben kann, und diese dann das ausspielen (fehlt aktuell bei Lichess, muss mal suchen, ob es dazu auch einen Feature-Request gibt).
+    * Nachteile: Das Schachbrett ist die meiste Zeit read-only für die Teilnehmer; man muss die Studie separat in Lichess pflegen (Chessable bietet hier keine Unterstützung).
+    * Fazit: Das wäre evtl. eine schöne Ergänzun, wenn man est die Accounts für die Teilnehmer bekommen hat.
 
 ## Trainer
 
