@@ -21,6 +21,23 @@ Der Online-Kurs wurde schon zweimal für den SVW durchgeführt. Dabei wird in 3 
 
 Wir werden im Kurs eine knappe Variante davon machen, da die Teilnehmer ja vor Ort sind, und wir noch einige weitere Themen haben.
 
+Dort ist der Fokus auf der Nutzung von Lichess und Discord, es sind natürlich viele andere Varianten denkbar. Hier mal die wesentliche Unterscheidung, und dann einige Beispiele:
+
+* Kombination Zoom und Co mit lokalen Werkzeugen
+  * Man setzt eine Software wie Zoom (oder Jitsy, BigBlueButton, ...) ein, und streamed seinen lokalen Bildschirm mit seinem lokalen Werkzeug.
+  * Vorteile: Das ist relativ einfach, und kann von den meisten Trainern und Teilehmern direkt verwendet werden.
+  * Nachteile: Viele der Möglichkeiten, die man mit Lichess hat, sind dann nicht nutzbar. Züge verbergen, Teilnehmer probieren selbst, Varianten wie: alle sehen alles; nur Trainer sieht alles; Übungen; ... sind nicht umsetzbar.
+* Kombination Zoom und Co mit öffentlichen Ressourcen
+  * Man setzt eine Software wie Zoom (oder Jitsy, BigBlueButton, ...) ein, und streamed seinen lokalen Bildschirm mit z.B. einer Studie in Lichess.
+  * Vorteile: Einfach, man kann den Link zur Studie sharen, Teilnehmer können parallel mit der Studie arbeiten (wenn dies erlaubt ist).
+  * Nachteile: Zwei Bildschirme bei Teilnehmern notwendig, wenn man die Vorteile nutzen möchte. Die lokal genutzte Studie lenkt eher ab. Der Trainer weiß nicht, was der Teilnehmer weiß.
+* Nutzung von spezifischen Werkzeugen für den Online-Unterricht. Es gibt inzwischen Plattformen, die das anbieten. Hier stellvertretend 2 kurz umrissen:
+  * Lichess (aber ohne Discord): Man kann in einer Studie Ton dazuschalten, und sich dann direkt unterhalten. Damit braucht man kein Discord, und macht alles direkt mit Lichess.
+    * Vorteile: Wenn es funktioniert, toll und einfach. Im Zentrum ist die Studie, und dort passiert alles.
+    * Nachteile: Ich hatte technische Probleme, musste den Browser wechseln; wo ist der Chat für die Session (der nicht in der Studie landet)?; man muss alle Teilnehmer explizit als Mitarbeiter in die Studie eintragen.
+  * chess.com: Klassenraum **Beschreiben**
+  * Chessable: Klassenraum **Beschreiben**
+
 ## Trainer
 
 ### Lichess Coaches
