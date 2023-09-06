@@ -63,10 +63,10 @@ const config = {
     {
       algolia: {
         // The application ID provided by Algolia
-        appId: 'LM23P1WRON',
+        appId: '80O311AS28',
 
         // Public API key: it is safe to commit it
-        apiKey: 'ebca095b33b6dcaa25f175384c1db360',
+        apiKey: '6a89598b36cba6455d1880b5b8796ba7',
 
         indexName: 'schach-selbsttraining',
 
