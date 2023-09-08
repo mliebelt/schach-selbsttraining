@@ -64,7 +64,7 @@ Aus meiner Sicht ist Chessbase keine vollständige Plattform.
 
 [Chessable](https://www.chessable.com/) war etwas Besonderes, als es neu entstand. Computer Based Training, einige freie Kurse, sehr gute Trainer, und exzellentes Material. Aber jeder, der das mal versucht hat, merkt, dass man seine Grenzen hat, was man an einem Tag lernen und trainieren kann. Und für viele Trainings ist die Art nicht geeignet. Warum wird das unter den Plattformen (für Training) noch aufgeführt? Chessable hatte/hat ein interessantes Feature namens Classroom. Ich habe das mit einem Schüler mal ausprobiert, und das hat so leidlich funktioniert. Inzwischen ist das Einstellen von Inhalten deutlich einfacher, und man kann z.B. direkt mit einer Lichess-Studie starten, und mit Schülern dann durchgehen. Chat, Kamera, Ton, Schachbrett, alles integriert ...
 
-Das Einrichten des Classrooms war umständlich, d.h. man musste sich als Trainer registrieren, und die Schüler müssen alle Mitglied bei Chessable sein. Das ist meines Erachtens die größte Einschränkung. Danach hat man aber eine voll funktionsfähige Lernumgebung, in der man Online-Schachkurse durchführen kann. Man kann heute schwer abschätzen, ob und wie lange die Plattform in der Form weiter existieren wird ... Es ist noch zu prüfen, ob die Classrooms von Chessable bei chess.com drin sind, oder ob das was anderes ist.
+Das Einrichten des Classrooms war umständlich, d.h. man musste sich als Trainer registrieren, und die Schüler müssen alle Mitglied bei Chessable sein. Das ist meines Erachtens die größte Einschränkung. Danach hat man aber eine voll funktionsfähige Lernumgebung, in der man Online-Schachkurse durchführen kann. Man kann heute schwer abschätzen, ob und wie lange die Plattform in der Form weiter existieren wird ... Der Klassenraum bei chess.com scheint eine eigene Implementierung zu sein.
 
 ### Chesstempo
 
@@ -156,6 +156,7 @@ Von mir seit Jahren verwendet, auch als ich noch Zugriff auf Chessbase hatte. Ha
   * Studien können geteilt, und andere daran beteiligt werden. Das erlaubt es z.B. unserer Mannschaft, ihre Partien in Lichess (vor der Öffentlichkeit natürlich verborgen) zu erfassen und zu zeigen.
 * Der Übergang von gespielten Partien, dem Analysebrett oder auch dem Bretteditor ist einfach: Wenn man die Stelle kennt, ein Klick, Studie auswählen (oder neu erstellen), fertig.
 * Man kann praktisch von allen Partien aus, auch denen, die man live zuschaut, direkt in die Analyse springen. Und wenn man das ernsthaft behalten möchte, macht man eine Studie daraus.
+* Neuerdings hat die Studie auch die Möglichkeit, dass sich Teilnehmer der Studie direkt unterhalten können. Telefonhörer anklicken, und man ist drin. Leider geht das nur, wenn man explizit zur Studie eingeladen ist. Das wäre dennoch eine leichtgewichtige Möglichkeit, dass man kein zusätzliches Werkzeug braucht. Es bleibt aber das Problem, wie man seinen Unterricht organisiert, die Kinder reinbekommt usws. usf.
 
 Weiter interessant für die Analyse können sein:
 

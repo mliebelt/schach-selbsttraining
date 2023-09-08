@@ -224,6 +224,8 @@ Woche: <KALENDERWOCHE\>
   * [Aktueller Artikel auf Lichess](https://lichess.org/@/NoelStuder/blog/the-one-third-rule-how-to-take-control-of-your-chess-training/LMmytfrV) auch von Noel Studer, der das Prinzip der 1/3-Regels erklärt.
 * [Chessemy](https://www.chessemy.com/): Hochklassige/-preisige Kurse von guten deutschen Trainern wie IM Jan Werle.
 * [Chessable](https://chessable.com/): Große Auswahl an Kursen, auch kostenlos, aber oft kostenpflichtige Premium-Versionen. Viele Kurse auf Englisch.
+* [ChessMood](./schachonline.md#chessmood)
+  * Hat unter [Study Plan](https://chessmood.com/chess-study-plans) viele gute Vorschläge, die man gut integrieren kann
 * [ChessTempo](https://chesstempo.com/)
   * Unter [Training > Aufgaben](https://chesstempo.com/chess-tactics/) kann man themenbezogen trainieren.
   * Unter [Training > Eröffnungstraining](https://chesstempo.com/opening-training/) hat man die Möglichkeit, eigene Repertoires zu entwickeln und diese auch zu üben.
