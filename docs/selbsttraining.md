@@ -126,9 +126,16 @@ Und natürlich ist der Übergang fließend. Zum Selbsttraining wäre es aber wic
   * Unter [Statistiken > Endspiele](https://chesstempo.com/stats/mliebelt63/endgames/) (personalisiert) kann man sich anschauen, wie gut man abgeschnitten hat.
 * Aimchess: die sogenannten Endgames sind nur Puzzle mit weniger Steinen, und haben nichts mit Endspielen gemein.
 
-### Training: Strategie?
+### Training: Strategie
 
-Unklar, ob man hier wirklich was empfehlen kann. Bisher eher Negativerfahrungen mit untauglichem Material und/oder Lernansatz.
+Strategie im Selbsttraining ist ein schwieriger Punkt. Ich habe verschiedene Versuche gemacht, hier eine Zusammenfassung, was meine Eindrücke dabei waren:
+
+*  Chessable: Ich habe verschiedene Kurse, die Schachstrategie als Hintergrund haben, und am Ende erinnert man sich an die Züge, die in einer bestimmten Position "besser" sind, ohne dass man die Begründung angeben kann. Wenn man in Chessable schaut, dann hat man auch den Eindruck, dass die Strategiebücher (wenn überhaupt) höchstens 10% alle Kurse ausmachen.
+* Schachbücher über Strategie: Es gibt einige (wenige) bekannte Bücher, und ich habe ein paar ausprobiert, und Studien daraus gemacht. Teilweise war es zu ambitioniert für mich und die Kids (Karpov, aufgehört), teils habe ich Schwierigkeiten, die guten Botschaften gut zu verpacken. Das Hilftsmittel ist hier eine Studie, die Beispielpartien der Bücher sind die Kapitel, und die Essenz ist die gute Annotierung und Kommentare, teils verborgen vor den Kids. Wir setzen das weiter fort, aber nur für die sehr fortgeschrittenen Kinder. Und ja, im Selbsttraining geht hier gar nichts.
+* Lichess oder chess.com: In beiden ist nichts zu Strategie zu finden, was zum Selbststudium geeignet ist.
+* ChessTempo: Unter [Training > Positionelle Motive](https://chesstempo.com/positional-motifs) findet man einen Katalog, aber der wird nur zum Taggen von Stellungen verwendet. Einige der Themen wären gut als Strategie-Training, aber sonst nichts zu finden.
+
+Von daher ist es schwer etwas zu finden, das ein Trainierender im Selbststudium vergleichbar zu Taktik-, Eröffnungs- und Endspieltraining tun kann.
 
 ### Training: Analyse
 
@@ -215,6 +222,7 @@ Woche: <KALENDERWOCHE\>
 | Samstag | Eröffnung: Greco Video anschauen, Mainline erfassen | LINK |     |      |
 | Sonntag | ist | frei | | |
 
+Ich habe mal ein [Template erstellt](https://docs.google.com/spreadsheets/d/1JQkjEGYLpPLaa2xFejELc65z5d1p-PLCmsa9rT9IJFI/edit?usp=drive_link), das man sich dann einfach kopieren können sollte. [Hier ist ein PDF](https://drive.google.com/file/d/1hSJA1oK24jH4hyJix8Gmo2se4ZyJQInY/view?usp=drive_link) davon.
 
 ## Ressourcen
 
@@ -233,5 +241,6 @@ Woche: <KALENDERWOCHE\>
 * Videomaterial unter [Schachunterhaltung](./schachunterhaltung.md)
 * Trainingsplan
   * [ich-lerne-schach](https://www.ich-lerne-schach.de/public_files/Trainingsplan.pdf)
+  * [Template Trainingsplan](https://docs.google.com/spreadsheets/d/1JQkjEGYLpPLaa2xFejELc65z5d1p-PLCmsa9rT9IJFI/edit?usp=drive_link) das man dann selbst füllen kann (nachdem man es kopiert hat, der Plan ist schreibgeschützt).
 * Analyse
   * [Lichess Blog: how to become good at annotating your chess games](https://lichess.org/@/SayChessClassical/blog/how-to-become-good-at-annotating-your-chess-games/LEwocOqF) mit einigen wichtigen Erkenntnissen.

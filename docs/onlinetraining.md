@@ -10,6 +10,7 @@ Es gibt aber darüber hinaus einige Angebote online, die der Übersicht halber a
 
 * Trainer, die Stunden anbieten
 * Akakdemien, bei denen man einsteigen kann
+* Trainingsressourcen, die man zum Aufbau der eigenen Trainings nutzen kann
 
 ## Online Training
 
