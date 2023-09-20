@@ -7,7 +7,7 @@ Schach ist gegenüber vielen anderen Sportarten besonders, da man hier (unterst�
 
 ## Methodik
 
-Was ist das Prinzip, wie ist es aufgebaut, was ist wichtig und wesentlich. Das folgende ist angelehnt an die Darstellung von Noel Studer, und entsprechend verlinkt (Buch ([The Art of Chess Training](https://drive.google.com/file/d/1oQWQmecuDpbC8t0h6KMrBTvDeEz5Ph17/view?usp=sharing)), Templates, [Blog von Noel](https://nextlevelchess.blog/), Newsletter).
+Was ist das Prinzip, wie ist es aufgebaut, was ist wichtig und wesentlich. Das folgende ist angelehnt an die Darstellung von Noel Studer, und entsprechend verlinkt (Buch ([The Art of Chess Training](https://drive.google.com/file/d/1oQWQmecuDpbC8t0h6KMrBTvDeEz5Ph17/view?usp=sharing)), Templates, [Blog von Noel](https://nextlevelchess.blog/), Newsletter). Noel Studer veröffentlicht auch immer wieder Blogartikel bei Lichess.
 
 Hier eine kurze Zusammenfassung der Methodik von Noel Studer, wer mehr wissen möchte, der muss sich das ganze Buch antun.
 
