@@ -31,13 +31,21 @@ Was bietet Chessbase (die Software) nun an?
 
 Scid ist public domain, und wird aktiv weiter entwickelt. Im Kern hat es dieselbe Funktionalität wie Chessbase, aber auf das Wesentliche runtergestrippt:
 
-* Partien in Datenbanken verwalten.
+* Partien in Datenbanken verwalten. Das Format hier ist immer PGN, was die Übertragung der Partien dann auch erleichtert, da das Textformat von anderen Readern gelesen und verstanden wird.
 * Partien mit Annotationen versehen: Tags, Kommentare, NAGs, ...
 * Grafische Symbole (leider anders als Lichess und chess.com, damit von denen nicht erkannt)
 
-**TO BE CONTINUED**
+Die Aufteilung in verschiedene Sichten muss man lernen, sollte aber nicht das Problem sein. Stockfish ist fest eingebaut, andere Engines sind ebenfalls verfügbar, weitere können hinzugefügt werden. Es gibt Andeutungen von weiteren Erweiterungen (Spielen über FICS, gegen die Engine, ...), die aber nicht weiter betrachtet wurden.
+
+Scid ist damit ein vollwertiger Ersatz für Chessbase, und hat (für mich) auch den Vorteil, dass es nicht nur unter Windows läuft. Ich persönlich habe Scid bisher nur sporadisch verwendet, da ich direkt von Chessbase auf Studien in Lichess (für alles) umgestiegen bin, und auch nicht mehr zurück möchte.
 
 ## Lucaschess
+
+Ich nutze Lucaschess nicht, und habe von daher keine Erfahrungen damit. Mitglieder unseres Schachclubs waren aber voll des Lobes, und sagten, dass das Werkzeug alles abdeckt, was sie sich wünschen.
+
+Lucaschess geht weit über Scid hinaus, hat aber eine eigenwillige Menuführung und Organisation. Man kann dort viel mehr Aspekte abdecken, als nur Partien zu erfassen. Basis davon sind ebenfalls PGN Dateien.
+
+Hier ist die [Homepage](https://lucaschess.pythonanywhere.com/index?lang=de) zu finden, die weitere Informationen bereithält.
 
 ## Weitere Werkzeuge
 
