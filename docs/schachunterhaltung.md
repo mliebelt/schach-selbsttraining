@@ -13,6 +13,7 @@ Die Streamer, die nur Videos drehen, und nie live streamen, sind unter [Videos](
 
 * [Eric Rosen](https://www.twitch.tv/imrosen): sehr unterhaltsam, mit unterschiedlichstes Ideen. Streamt recht oft, meist auf Lichess, hat eine sehr ruhige angenehme Art, sehr amüsant. Siehe auch den Rosen-Score in den Ressourcen (Oh no, my queen). Wenn man die aufgenommenen Streams sehen möchte, muss man Abonnent sein (== bezahlen, 3€ im Monat).
 * [Hikaru Nakamura](https://www.twitch.tv/gmhikaru): Super-GM, der sich in der Pandemie auf das Streamen geworfen hat, und dabei geblieben ist. Ist (nahezu) ausschließlich auf chess.com zu sehen (da von denen auch bezahlt). Nimmt über seine vielen Abonnenten inzwischen deutlich mehr ein als über die anderen Dinge, die er so tut.
+* [Anna Cramling](https://www.youtube.com/@AnnaCramling) ist die Tocher von Pia Cramling (einst Schach-Weltmeisterin) und Juan Manuel Bellón López (GM). Sie spielt nicht so stark, hat aber eine unglaubliche Präsenz beim streamen, und auch tolle Ideen. So hat sie einmal mit ihrer Mutter Stellungen ausgespielt, und laut reflektiert, was sie dabei denken. Und man konnte den Unterschied zwischen einer starken Großmeisterin und einer starken Spielerin sehen. Sehenswert und oft lustig.
 * [The Big Greek](https://www.youtube.com/@TheBigGreek) IM aus Deutschland, streamt auch nur Deutsch, und versucht verschiedenes.
 
 ## Podcasts

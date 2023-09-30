@@ -44,6 +44,45 @@ Dort ist der Fokus auf der Nutzung von Lichess und Discord, es sind natürlich v
     * Nachteile: Das Schachbrett ist die meiste Zeit read-only für die Teilnehmer; man muss die Studie separat in Lichess pflegen (Chessable bietet hier keine Unterstützung).
     * Fazit: Das wäre evtl. eine schöne Ergänzun, wenn man est die Accounts für die Teilnehmer bekommen hat.
 
+### Semi-Online Training
+
+Der Begriff wurde im Begriff geprägt, und hat mir gefallen. Gemeint ist damit, dass man Teile des Online-Trainings (natürlich die Ressourcen, aber auch Teile der Methodik und der Werkzeuge) auch vor Ort nutzen kann.
+
+Wir haben das bei uns im Schachclub seit ~2 Jahren etabliert. Der Ablauf ist so:
+
+1. Die Inhalte werden wie für ein Online-Training vorbereitet, kein Unterschied.
+2. Vor Ort haben wir für das Semi-Online-Training:
+   * Einen Beamer und eine Leinwand. Der Raum ist normal hell, der Beamer lichtstark genug.
+   * Einen Rechner, auf dem die Online-Tools alle verfügbar sind (Browser mit den richtigen Profilen).
+   * Ein lokales WLAN, das ausreichend ist. Wenn das nicht klappt, dann nutze ich mein privates Handy, und nutze den Datentarif und stelle dem Rechner darüber ein WLAN zur Verfügung. Kostet pro Termin 20-50 MByte.
+3. Das Material wird ausreichend vor der Zeit aufgebaut, und die Sessions, die für den Tag geplant sind, schon geladen. Dabei habe ich die Studie in zwei verschiedenen Browsern offen:
+   * Lokal am Rechner als Trainer, d.h. ich sehe dort alles und kann es modifizieren.
+   * Auf der Leinwand einen Browser mit anonymen Zugriff auf die Studie, d.h. dort sind die Inhalte read-only, und man sieht nur die Züge, die schon gemacht wurden.
+4. Wir arbeiten zur Zeit in 3 Gruppen, die nacheinander drankommen. Der Ablauf für jede Gruppe ist aber gleich:
+   1. Ich hole die Kids zusammen, Leinwand usw. ist räumlich etwas von den Tischen mit den Brettern getrennt (4 m Abstand). Die Kinder, die frei spielen, müssen entsprechend leise sein.
+   2. Ich starte die Session am Trainerrechner, erkläre, was heute dran ist, und zeige die erste Stellung.
+   3. Ich frage die Kinder meist, was los ist, welche Kandidatenzüge es gibt, was Vor- und Nachteile sind usw. Das Ganze wird von mir mit farbigen Pfeilen und Markierungen begleitet. Alle Kinder kennen die Koordinaten, und können sie verwenden.
+   4. So gehen wir eine Stellung nach der anderen durch, ich schaue, dass alle Kinder sich beteiligen, die passiven lade ich dann ein, was beizutragen. Ganz normaler Unterricht.
+
+Was ist der Vorteil davon? Ich kann dasselbe Material/dieselbe Methodik verwenden für Online-Unterricht wie vor Ort Unterricht. Die Vorbereitung ist gleich. Die Stellungen sind sofort da, kein umständliches Aufbauen, keine Verzögerung. Die graphischen Symbole (Kreise, Pfeile, auch die Annotationen !!, !, ? usw. usf.) helfen massiv.
+
+Hier sind einige unserer Artikel auf der Webseite, die Details darstellen:
+
+* [Die Schach-AG brummt](https://schachclub-stetten.de/die-schach-ag-brummt/) mit einigen Bildern, die das Setup zeigen.
+* [Was ist eine hybride Schach-AG](https://schachclub-stetten.de/hybride-schach-ag/) sehr viele Details zu genau dem Thema des Semi-Online-Unterrichts.
+* [Organisation der Schach-AG](https://schachclub-stetten.de/organisation-der-schach-ag/) gibt noch weitere Hintergründe, die helfen, den Ansatz von uns zu verstehen.
+
+### COOP Training
+
+Renke Fließ von den Schachfreunden Neckarsteinach hat eine eigene Form des Online-Trainings entwickelt, die er seit einigen Jahren jede Woche Mittwoch anbietet. Das Konzept dort ist ein wenig anders, aber ebenfalls sehr gut strukturiert, und betrachtet alle Aspekte, die beim Online-Training notwendig sind:
+
+* Als Technik wird Zoom verwendet.
+* Es finden parallel einige Sessions, getrennt nach Spielstärke statt.
+* Es gibt ein Infrastruktur-Team, das Neulingen, und Leuten mit Problemen hilft.
+* Das Training hat eine festen Ablauf: Theorie nach Spielstärke (45 Minuten); danach ein (meist) Thema-Turnier auf Lichess, mit der Notwendigkeit, eine Kamera anzuschalten (Cheat-Check).
+
+Man findet auf der Seite [COOP-Training](https://schachfreunde.neckarsteinach.org/coop-training/) das alles detailliert erklärt, und dort sind auch die Kontaktdaten zu finden, wenn man dort teilnehmen möchte.
+
 ## Trainer
 
 ### Lichess Coaches
