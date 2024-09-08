@@ -28,6 +28,8 @@ Das sind Ressourcen, die vor allem für das Online-Training relevant sind. Die m
 | [Schachbund](https://www.schachbund.de/)  | Dachverband des deutschen Schachsports | [Link](./schuljugendschach.md#schul--und-jugendschach-organisationen) |
 | [Schulschach in BW](https://www.schulschach-bw.de/) | Website rund um Schulschach in Baden-Württemberg | [Link](./schuljugendschach.md#schul--und-jugendschach-organisationen) |
 | [Veränderung des Schachs durch Technik](https://youtu.be/IOQNVN4aX7s) | Vortrag von Vincent Keymer, 50 Minuten. Fokus aus Historie, Engines |                                                                       |
+| [Schachgeflüster bei der CSA](https://www.schachgefluester.de/chesssports-akademie/) | Vortrag von Michael Busse über "Schachressourcen im Internet" |     |
+
 ## Bernd's Linkliste
 
 Hier einige der Ressourcen von Bernd aufbereitet, damit sie besser zugänglich sind, und auch später leichter gefunden werden. Einiges ist in [Trainigsressourcen](./onlinetraining.md#trainingsressourcen) gelandet, das andere ist hier. Referenzen sind Referenzen in das Trainigsmaterial, der Link selbst ist in der Ressource versteckt.

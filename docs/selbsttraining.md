@@ -11,13 +11,13 @@ Was ist das Prinzip, wie ist es aufgebaut, was ist wichtig und wesentlich. Das f
 
 Hier eine kurze Zusammenfassung der Methodik von Noel Studer, wer mehr wissen möchte, der muss sich das ganze Buch antun.
 
-1. Wichtig ist, dass man einem Plan folgt. Zuviele machen zu viel auf einmal, ändern immer wieder die Methode, ... das bringt dann nichts.
+1. Wichtig ist, dass man einem Plan folgt. Zu viele machen zu viel auf einmal, ändern immer wieder die Methode, ... das bringt dann nichts.
 2. Das Training muss regelmäßig sein. Statt 1 mal 3 Stunden, dann wieder lange Pause, lieber jeden Tag 20 Minuten.
 3. Plane das Training: Schreibe vorher auf, was konkret wann trainiert wird.
 4. Notiere alles, was Dir während des Trainings auffällt. Halte auf jeden Fall das Ergebnis jedes Trainings fest.
 5. Habe Erwartungen, aber ohne enttäuscht zu sein. Setze Deine Erwartungen realistisch.
 6. Sorge dafür, dass während des Trainings nur trainiert wird. Kein Handy, keine Ablenkungen, keine Gespräche mit anderen.
-7. Mache in jedem Training 1 Ding, und nicht viele. Wenn Du lange Sessions machst, mache Pausen, damit du während des Trainings weiter fokusiert sein kannst.
+7. Mache in jedem Training 1 Ding, und nicht viele. Wenn Du lange Sessions machst, mache Pausen, damit Du während des Trainings weiter fokussiert sein kannst.
 8. Konzentriere dich im Training, was sich zu trainieren lohnt. Die Erfahrung zeigt, dass die meisten Partien wegen Taktiken verloren gehen.
 
 Die Empfehlung ist 1/3:
@@ -32,7 +32,7 @@ Dabei sollte man vermeiden, einfache Unterhaltung mit Training zu verwechseln. B
 
 Dabei wird strukturiert am Aufbau und den Inhalten orientiert versucht, Möglichkeiten aufzuzeigen. Die konkreten Systeme werden dann im entsprechenden Bereich genannt.
 
-Vorher aber noch kurz zusammengefasst, auf was man hier achten muss, damit ein Trainierender am Ende auch trainieren kann:
+Vorher aber noch kurz zusammengefasst, worauf man hier achten muss, damit ein Trainierender am Ende auch trainieren kann:
 
 * Die Trainingsinhalte können per Link dem Trainierenden zur Verfügung gestellt werden. Der muss sicher sein, dass er/sie das richtige trainiert.
 * Der Trainierende braucht möglicherweise einen Zugang (anonym geht oft nicht), teils ist der auch kostenpflichtig. Das muss abgestimmt sein.
@@ -43,8 +43,8 @@ Vorher aber noch kurz zusammengefasst, auf was man hier achten muss, damit ein T
 Hier gibt es viele Möglichkeiten, es hängt am Ende vom Trainierenden ab und dessen Möglichkeiten. Wenn man sich auf ein Medium verständigt hat, dann ist wichtig, dass
 
 * Trainer und Trainierender Zugriff darauf haben
-* im Trainingsplan für jeden einzelnen Tag sehr konkrete Vorgaben sind, was zu trainieren ist
-* der Trainingsplan Notizen erlaubt, die man dann 1 mal die Woche durchgehen kann
+* im Trainingsplan für jeden einzelnen Tag sehr konkrete Vorgaben sind, was zu trainieren ist.
+* der Trainingsplan Notizen erlaubt, die man dann 1-mal die Woche durchgehen kann.
 
 Dabei ist der Vorschlag, 6 Termine jede Woche einzuplanen, ab 7. Tag dann Pause zu machen. Der Trainer muss den Trainingsplan zusammen mit dem Trainierenden erstellen, und den dann Woche für Woche abgeleichen. Der Trainierende sollte mit der Zeit relativ selbständig mit dem Trainingsplan arbeiten können, ohne dass der Trainer beim Selbsttraining unterstützen muss. Im Folgenden wird deshalb immer wieder darauf eingegangen, wie einfach es für den Trainierenden ist, vom Trainingsplan direkt in das Training einzusteigen (natürlich online).
 
@@ -53,22 +53,22 @@ Dabei ist der Vorschlag, 6 Termine jede Woche einzuplanen, ab 7. Tag dann Pause 
 Das ist die Form des Trainings, die online am leichtesten erfolgen kann. Hier einige Zusammenfassungen, mit Links zu Details. 
 
 * Lichess
-  * Einstieg über [Aufgaben](https://lichess.org/training).  Dort kann man dann selbst bestimmen, welche Art von Taktikaufgaben man üben möchte
-    * Quer Beet, auf einem bestimmten Niveau
+  * Einstieg über [Aufgaben](https://lichess.org/training). Dort kann man dann selbst bestimmen, welche Art von Taktikaufgaben man üben möchte
+    * Querbeet, auf einem bestimmten Niveau
     * Phasen- oder Motiv-bezogen
     * Über Verbesserungsbereiche
     * Taktiken aus den eigenen Partien
   * Lernkontrolle bei Lichess ist über Aufgaben > Aufgabenverlauf einfach möglich. Man bekommmt tagesgenau angezeigt, welche Aufgaben man gelöst hat, mit welchem Ergebnis.
   * Stellen der Aufgaben: Wenn man ein Thema ausgewählt hat, dann ist der Link sprechend, und kann durch den Trainierenden einfach aufgerufen werden. Beispiel: [https://lichess.org/training/hangingPiece](https://lichess.org/training/hangingPiece) == Hängende Figur. Der Schwierigkeitsgrad ist voreingestellt (normal), und kann vom Trainer nicht beeinflusst werden.
 * chess.com
-  * Einstieg über [Puzzles](https://www.chess.com/puzzles). Man kann hier wirklich schöne Puzzle finden, aber es ist relativ komplex. Und ich habe keinen Weg gefunden, wie man das für einen Trainierenden vorbereiten kann. Der Fokus ist hier klar auf Gamification (Punkte holen, aufsteigen, besser als die anderen werden). Unter Profile > Stats > Full Stats > Puzzles habe ich was gefunden. Ganz unten unter Recent Puzzles kann man sich seine Puzzles anschauen, und damit Ergebnisse erfassen.
+  * Einstieg über [Puzzles](https://www.chess.com/puzzles). Man kann hier wirklich schöne Puzzle finden, aber es ist relativ komplex. Und ich habe keinen Weg gefunden, wie man das für einen Trainierenden vorbereiten kann. Der Fokus ist hier klar auf Gamification (Punkte holen, aufsteigen, besser als die anderen werden). Unter Profile > Stats > Full Stats > Puzzles habe ich was gefunden (geht wohl nur für kostenpflichtige Accounts). Ganz unten unter Recent Puzzles kann man sich seine Puzzles anschauen, und damit Ergebnisse erfassen.
     * [Lessons](https://www.chess.com/lessons) Kleine Videos, verbunden mit Übungen zu taktischen Themen. Die Themen sind vorbereitet, alles auf English, aber ist auf jeden Fall hilfreich. 
     * Unter Puzzles > Custom kann man Themen und Schwierigkeiten auswählen, und damit dann die richtigen Dinge üben.
   * Lernkontrolle ist etwas komplizierter, aber über Home > Stats > Puzzles kann man unten im Schirm die Puzzles finden, jedoch ohne Kategorie. Wenn man das direkt nach dem Training macht, sollte das genügen.
   * Stellen der Aufgaben: Der Trainer muss dem Trainierenden erklären, wie er die richtigen Puzzles auswählt. Schritte sind: Puzzles > Custom Puzzles > Thema: <THEMA\>; der Schüler muss es dann in der Übung korrekt auswählen. Unter Umständen kann ein angemeldeter Trainierender über den Link https://www.chess.com/puzzles/learning den Einstieg leicht bekommen, dann den Ratingbereich auswählen, und das richtige Thema.
 * Chesstempo
-  * Einstieg über [Schachtaktiken](https://chesstempo.com/chess-tactics/), hat eine recht umfangreiche Datenbank von Aufgaben, die viel schwieriger wirkt als die von Lichess oder chess.com. Siehe auch das Video [Taktiktraining](https://youtu.be/WSAIJ2jG3Yo?feature=shared) von SchachmattTV, der in den höchsten Tönen von Chesstempo schwärmt.Hier kann man sich auch eigene Trainingspläne zusammenstellen. Chesstempo hat (für Gold-Member) die Möglichkeit, dass ein Trainer für seine Schüler Trainingsziele erstellen kann. In der [Hilfe zu Training Targets](https://chesstempo.com/manual/en/manual.html#trainingtargets) wird das erklärt. Zu dem Feature habe ich aber wenig sonst gefunden, mir ist auch nicht klar, was man sonst mit Schülern machen kann.
-  * Lernkontrolle: Es gibt wohl unter Statistiken > Taktiken viel Material, aber ich habe noch nicht verstanden, wie ich dort herausbekomme, wie viele Aufgaben, an welchem Tag, mit welchem Ergebniss ich dort finde. Zumindest für jüngere Schüler ist das vermutlich nicht bedienbar.
+  * Einstieg über [Schachtaktiken](https://chesstempo.com/chess-tactics/), hat eine recht umfangreiche Datenbank von Aufgaben, die viel schwieriger wirkt als die von Lichess oder chess.com. Siehe auch das Video [Taktiktraining](https://youtu.be/WSAIJ2jG3Yo?feature=shared) von SchachmattTV, der in den höchsten Tönen von Chesstempo schwärmt. Hier kann man sich auch eigene Trainingspläne zusammenstellen. Chesstempo hat (für Gold-Member) die Möglichkeit, dass ein Trainer für seine Schüler Trainingsziele erstellen kann. In der [Hilfe zu Training Targets](https://chesstempo.com/manual/en/manual.html#trainingtargets) wird das erklärt. Zu dem Feature habe ich aber wenig sonst gefunden, mir ist auch nicht klar, was man sonst mit Schülern machen kann.
+  * Lernkontrolle: Es gibt wohl unter Statistiken > Taktiken viel Material, aber ich habe noch nicht verstanden, wie ich dort herausbekomme, wie viele Aufgaben, an welchem Tag, mit welchem Ergebnis ich dort finde. Zumindest für jüngere Schüler ist das vermutlich nicht bedienbar.
   * Stellen der Aufgaben: Wenn man als Trainer über den richtigen Weg geht (Training > Schachtaktiken), dann muss man noch den richtigen Schwierigkeitsgrad (Leicht/Mittel/Schwer) wählen, und die richtige Sammlung. Die vermutlich interessanten sind unter Themen und Motive > Taktische Motive zu finden.
 
 
@@ -97,13 +97,17 @@ Hier einige Beispiele der Plattformen, aber von anderen Websites, wie man Eröff
   * Mit Chesstempo kann man eigene Eröffnungsbibliotheken aufbauen, und sich dabei von der Partiedatenbank und der Engine unterstützen lassen. Das ist recht kompliziert, und ich habe noch keinen Weg gefunden, wie ich das von mir entwickelte Repertoire anderen zur Verfügung stellen kann. Das Brett hat auch noch verschiedene andere Macken, und ich wollte nicht zu viel Zeit investieren. Hier einige Anmerkungen:
     * Kommentare zu Positionen sind geshared (was Quatsch ist), man kann sie aber privat machen. Bei mir waren sie immer zweimal angezeigt.
     * Es ist mir nicht gelungen, einmal gespielte Varianten zu ändern. Man konnte immer nur hinzufügen.
+  * Man kann die importierten Varianten dann in der üblichen Weise üben, d.h. man kann die Varianten durchspielen, und bekommt Unterstützung dabei durch die Plattform.
   * Von daher, die Ansätze sind da, aber ich weiß nicht, ob man Chesstempo wirklich richtig bedienen kann, um das zu erreichen, was man hinbekommen möchte.
 * [Chessable](https://www.chessable.com/)
   * Ist meines Erachtens das bisher beste Portal, um Eröffnungen (und anderes) tief zu trainieren. Dem liegt aber ein kommerzielles Modell zugrunde, d.h. ohne Geld auszugeben, wird man wenig geeignetes Material finden, das einen zufrieden stellt. Also wer konkret weiß, was er üben möchte, und der bereit ist, dafür Geld auszugeben, der findet bei Chessable mehr als genug Möglichkeiten.
   * Variante: Es gibt die Möglichkeit, gezielt bestimmte Varianten zu üben. Der Trainierende muss das lernen, und dann richtig verwenden können.
   * Lernkontrolle: Man bekommt zu den Linien, die man geübt hat, Statistiken angezeigt, und man kann diese wieder trainieren, mit Fokus auf die Fehler, die man gemacht hatte.
+  * Üblicherweise startet man mit kommerziellen oder freien Büchern, aber mit ein wenig Erfahrung kann man auch eigene Bücher erstellen. Diese können dann im Klassenzimmer verwendet werden, oder auch mit anderen Mitgliedern auf Chessable geshared werden.
 * [Chessbook](https://chessbook.com/)
   * Frisch entdeckt, mit Fokus auf ausschließlich Eröffnungen. Man baut ein eigenes Repertoire für Weiß und Schwarz auf, und kann das dann gezielt trainieren. Für die Einsteiger mehr als ausreichend, aber man muss das Repertoire erst mal reinbekommen. Aus meiner Sicht ein guter Ansatz, aber noch nicht fertig. Aktuell kann niemand sagen, wo das hingehen wird.
+* [Listudy.org](https://listudy.org/de/studies) Man kann dort eine mit Lichess angelegte Studie hochladen, um diese dann zu üben. Unter dem Brett sind Einstellmöglichkeiten, dort kann man dann auch angeben, nach wie vielen Versuchen die Hints versteckt werden sollen. Hier hängt es stark vom Material ab, das man hochlädt, ob das repetieren einen positiven
+  Effekt hat. Bildet ein Subset von Chessable ab damit.
 
 ### Training: Endspiele
 
@@ -122,7 +126,7 @@ Und natürlich ist der Übergang fließend. Zum Selbsttraining wäre es aber wic
 * ChessTempo
   * Unter [Training > Schach Endspiele](https://chesstempo.com/chess-endgames/) hat man den Einstieg, und ähnlich wie bei den Taktiken muss man hier Schwierigkeitsgrad und Sammlung wählen.
   * Man kann einfach nur trainieren (Benchmark) und sich einschätzen lassen, das hat gut funktioniert.
-  * Die technischen Endspiele sind dann heftig, und es ist nicht immer zu verstehen, warum ein Zug  nicht akzeptiert wird (ja, es geht schneller, aber kommt es darauf an?). Die Qualität und Auswahl ist sehr groß.
+  * Die technischen Endspiele sind dann heftig, und es ist nicht immer zu verstehen, warum ein Zug nicht akzeptiert wird (ja, es geht schneller, aber kommt es darauf an?). Die Qualität und Auswahl ist sehr groß.
   * Unter [Statistiken > Endspiele](https://chesstempo.com/stats/mliebelt63/endgames/) (personalisiert) kann man sich anschauen, wie gut man abgeschnitten hat.
 * Aimchess: die sogenannten Endgames sind nur Puzzle mit weniger Steinen, und haben nichts mit Endspielen gemein.
 
@@ -139,7 +143,7 @@ Von daher ist es schwer etwas zu finden, das ein Trainierender im Selbststudium 
 
 ### Training: Analyse
 
-Es ist wichtig, dass ein Schach-Lernender seine eigenen Partien selbständig analysiert. Das hat viele Gründe: es schult die Rechenfähigkeiten; man versteht eher, was man gespielt hat, wenn man es in der Analyse erklären kann; Engines haben keine Idee vom Spiel, sie gewinnen einfach; ...
+Es ist wichtig, dass ein Schach-Lernender seine eigenen Partien selbständig analysiert. Das hat viele Gründe: Es schult die Rechenfähigkeiten; man versteht eher, was man gespielt hat, wenn man es in der Analyse erklären kann; Engines haben keine Idee vom Spiel, sie gewinnen einfach; ...
 
 Von daher ist es wichtig, dass im Trainingsplan die Analyse der eigenen Partien mit vorgesehen ist.
 
@@ -163,9 +167,9 @@ Aus meiner Sicht immer noch überragend, mit praktisch allen Featuren, die auch 
 * Studie: Wir erstellen für unsere Mannschaften Studien, die mit den Aktiven geshared werden. Diese erfassen dann nach einem Spiel selbständig ihre Partie, und analysieren diese auch.
 * Stellung aufbauen > Analysebrett > Studie: Man hat eine Stellung, baut die auf, und überführt die Analyse in eine Studie, wenn man sie behalten möchte.
 
-Eine Besonderheit bei den Studien von Lichess ist, dass der Ersteller festlegen kann, wie eine Studie in Summe geshared werden kann, ob eine Engine verwendet werden darf oder nicht, und vor allem, ob die Kapitel der Studie für alle Betrachter "In Sync" sind. Für die einzlnen Kapitel kann man dann festlegen, welcher der 4 Modi verwendet werden soll.
+Eine Besonderheit bei den Studien von Lichess ist, dass der Ersteller festlegen kann, wie eine Studie in Summe geshared werden kann, ob eine Engine verwendet werden darf oder nicht, und vor allem, ob die Kapitel der Studie für alle Betrachter "In Sync" sind. Für die einzelnen Kapitel kann man dann festlegen, welcher der 4 Modi verwendet werden soll.
 
-Lichess unterstützt alle bekannten Formate für Schachpartien: PGN, FEN, NAG, Kommentare, Zeit- und graphische Annotationen.
+Lichess unterstützt alle bekannten Formate für Schachpartien: PGN, FEN, NAG, Kommentare, Zeit- und grafische Annotationen.
 
 #### Analyse chess.com
 
@@ -173,7 +177,7 @@ War am Anfang ein wenig schwierig, man gewöhnt sich aber daran. Die überwiegen
 
 Einstieg: [Lernen > Analyse](https://www.chess.com/analysis?tab=analysis) und man hat ein Brett in Ausgangsstellung. Dann kann man:
 
-* Studie importieren: Angabe einer Lichess Studie, die wird dann dargestellt. Leider werden die graphischen Annotationen nicht mit importiert.
+* Studie importieren: Angabe einer Lichess Studie, die wird dann dargestellt. Leider werden die grafischen Annotationen nicht mit importiert.
 * Stellung aufbauen: der Bretteditor von Lichess. Funktioniert lange nicht so gut, aber reicht.
 * Am Ende kann man die Analyse einer Sammlung hinzufügen.
 
@@ -183,7 +187,7 @@ Meine Kritik an der Analyse ist:
 
 * Stockfish ist immer dabei, und man muss einiges abschalten, damit man selbst nachdenken muss.
 * Die Partieanalyse durch chess.com sieht schön aus, ist aber schwer dann in der eigenen Analyse zu verwenden.
-* Ein gemeinsames Arbeiten an einer Analyse ist meines Erachtens nicht möglich, nicht vorgesehen. Und das ist das, was für das Training online am Wichtigsten ist.
+* Ein gemeinsames Arbeiten an einer Analyse ist meines Erachtens nicht möglich, nicht vorgesehen. Und das ist das, was für das Training online am wichtigsten ist.
 
 #### Analyse ChessTempo
 

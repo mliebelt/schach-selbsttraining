@@ -74,6 +74,14 @@ Die Möglichkeiten der Plattform sind relativ umfangreich, der Spielbereich ist 
 
 Die Partiendatenbank ist recht umfangreich, aber sperrig zu verwenden, und Teile nur bei kostenpflichtigen Accounts zu bekommen. Die Schachtaktiken sind schön, auch die dort skizzierten Themenbereiche sind gut gestaltet. Das ist der Bereich, der nach wie vor ähnlich gut wie Lichess oder chess.com ist. Chesstempo hat viele weitere Feature, es ist unklar, wie gut genutzt Chesstempo ist.
 
+### Listudy.org
+
+Eine neue Plattform, die sich auf Schachtraining spezialisiert hat. Ich habe das Material nicht intensiv untersucht, aber die Plattform scheint gut zu sein. Listudy bietet ein weites Spektrum von Möglichkeiten, hier die Teile, die ich intensiv ausprobiert habe.
+
+* Studie: ermöglicht das Wiederholen von Varianten, was speziell bei Eröffnungen (siehe Chessable) oft ein Erfolgsrezept ist. Die Züge werden anfangs noch mit Hinweis (Pfeile auf dem Schachbrett) nachgespielt, nach der zweiten Wiederholung ist man dann selbst dran. Das Konzept scheint ähnlich, wenn auch einfacher als bei Chessable.
+* Taktiken: Ein einfaches Taktiktraining, bei dem man alle Züge finden muss.
+* Endspiele: Vorbereitete Endspiele, die man gegen die Engine ausspielen kann.
+
 ### ChessMood
 
 Habe ich erst vor kurzem eher zufällig entdeckt, die Plattform spezialisiert sich auf Schachtraining. Sie kann genutzt werden zu Beginn, ohne Geld zu bezahlen, aber die interessanten Inhalte sind nur kostenpflichtig zu bekommen. Dazu benötigt man aber einen Account, der in zwei Varianten kommt, Essential (588$ im Jahr), oder Pro (949$ im Jahr).
