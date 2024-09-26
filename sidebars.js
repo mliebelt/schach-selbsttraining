@@ -19,6 +19,11 @@ const sidebars = {
   // But you can create a sidebar manually
   tutorialSidebar: [
     {
+      type: "category",
+      label: 'Workshops',
+      items: ['2024-10-05-workshop']
+    },
+    {
       type: 'category',
       label: 'Training',
       items: ['schachonline','onlinetraining','selbsttraining']
