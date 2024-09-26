@@ -37,6 +37,10 @@ const sidebars = {
       type: 'doc',
       id: 'ressourcen',
       label: 'Ressourcen'
+    },{
+      type: 'doc',
+      id: 'kosten',
+      label: 'Kosten'
     },
     {
       type: 'doc',

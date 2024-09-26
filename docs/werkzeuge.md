@@ -61,7 +61,7 @@ Hilft mir massiv, wenn ich schöne Ideen irgendwo sehe, wo es eben weder FEN noc
 
 ### [Aimchess](https://aimchess.com/)
 
-Teil der Play Magnus Group, ein Werkzeug, das die auf einer der Plattformen gespielten Partien analysieren hilft. Beim Wiederausprobieren habe ich dort einige (mir nicht bekannte) Feature entdeckt, die es vielleicht wert sind, dass man sie weiter verfolgt. Es gibt aber auch hier eine Bezahlschranke, wenn man fortgeschrittene Feature nutzen möchte. Mit dem Premium-Account bekommt man: 10 Scouting Reports pro Monat; Warm-Up; Zugriff auf die eigenen Statistiken; Zugriff auf den Trainingsraum (den ich nicht kenne); ...). Um die Möglichkeiten auszuprobieren, habe ich mal die 8 Euro pro Monat investiert (für genau 1 Monat).
+Teil der Play Magnus Group, ein Werkzeug, das die auf einer der Plattformen gespielten Partien analysieren hilft. (Durch die Übernahme von chess.com nun von dort aus auch verlinkt.) Beim Wiederausprobieren habe ich dort einige (mir nicht bekannte) Feature entdeckt, die es vielleicht wert sind, dass man sie weiter verfolgt. Es gibt aber auch hier eine Bezahlschranke, wenn man fortgeschrittene Feature nutzen möchte. Mit dem Premium-Account bekommt man: 10 Scouting Reports pro Monat; Warm-Up; Zugriff auf die eigenen Statistiken; Zugriff auf den Trainingsraum (den ich nicht kenne); ...). Um die Möglichkeiten auszuprobieren, habe ich mal die 8 Euro pro Monat investiert (für genau 1 Monat).
 
 Ich habe ausprobiert:
 
