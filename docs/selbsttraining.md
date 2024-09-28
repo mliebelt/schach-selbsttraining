@@ -193,7 +193,7 @@ Meine Kritik an der Analyse ist:
 
 Ist aus meiner Sicht nicht zu verwenden. Hier die wichtigsten Kritikpunkte:
 
-* Man benötigt zuerst eine online gespielte Partie, für die man dann in die Analyse einsteigen kann.
+* Man benötigt zuerst eine online gespielte Partie, für die man dann in die Analyse einsteigen kann. Ich habe keinen Weg gefunden, eigene Partien in die Datenbank zu stecken. Vielleicht geht das, es ist aber sicher nicht einfach zu bedienen.
 * Es gibt kein Konzept für eigene Analysen. Die Partiedatenbank ist global, meine Partien sind einfach nur ein Filter.
 * Selbst wenn man damit leben kann, bis man die richtige Sicht gefunden hat, in der man selbst (mit oder ohne Hilfe der Engine) analysieren kann, das dauert.
 

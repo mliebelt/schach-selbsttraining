@@ -12,3 +12,4 @@ Ich versuche in der folgenden Tabelle einen Überblick zu geben, was man als Tra
 | Chessbook | 8 | 80 | Keine Restriktion zur Größe des Repertoires. Frei nur 100 Züge pro Farbe.                                                                              |
 | Listudy | - | - | Keine kostenpflichtigen Feature.                                                                                                                       |
 | Chessable | - | - | Kosten pro Thema. Man hat (solange Chessable lebt) Zugriff auf die Websitee auf seine gekauften und freien Kurse. Keine Option, diese herunterzuladen. |
+| Aimchess | 7,99$ | - | Statistiken, viele Tools kostenpflichtig (wechselnd), Deep Engine (16 statt 10) |
