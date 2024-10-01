@@ -45,9 +45,13 @@ Hier die Features, die für ein Training nützlich sein könnten:
 
 Der Eindruck zur Zeit ist, dass auch Teilnehmer des Trainings mindestens die einfachste (Gold) kostenpflichtige Version benötigen, unter Umständen sogar Platinum (für die Unterstützung der Analyse von Partien). Der Versuch mit der kostenpflichtigen Version wird dann zeigen, ob chess.com hier das gleiche Niveau hat wie Lichess. Nachtrag: Der Besuch des Trainingsraums war kostenfrei, aber das ist auch nur ein Teil des Trainings.
 
-### Chess24
+### Chesstempo
 
-Chess24 war einmal eine vollständige Plattform, mit allem drum und dran. Seit dem Verkauf der Play-Magnus-Gruppe wird Chess24 zwar in chess.com integriert (streamen von Veranstaltungen), aber seitdem sind auch einige Features verloren gegangen. Chess24 war immer (auch) kostenfrei, man konnte auch Premium-Member werden. Seit dem Zusammenschluss ist [diese Meldung](https://new.chess24.com/premium?source=redirect-chessdb) zu sehen. Damit sind auch alle Analysemöglichkeiten, die in der Vergangenheit da waren, nicht mehr zugänglich.
+Chesstempo war mal die beste Website, wenn es um Taktikaufgaben ging, aber die Entwicklung dort scheint inzwischen hinterherzuhinken. Die UI ist teils alt, teils neu (auch für unerfahrene Webnutzer leicht zu sehen), und wirkt verglichen mit Lichess und chess.com nicht schön. Und leider gibt es auch hier immer wieder eine Bezahlschranke (Upgrade auf Premium, um ..., siehe [Membership](https://chesstempo.com/memberships/)).
+
+Die Möglichkeiten der Plattform sind relativ umfangreich, der Spielbereich ist aber (wie Chessbase) wenig genutzt. Wenn man gespielt hat, ist die Analyse sehr schön, gut unterstützt. Leider kann man die Engines nur mit einem kostenpflichtigen Account nutzen.
+
+Die Partiendatenbank ist recht umfangreich, aber sperrig zu verwenden, und Teile nur bei kostenpflichtigen Accounts zu bekommen. Die Schachtaktiken sind schön, auch die dort skizzierten Themenbereiche sind gut gestaltet. Das ist der Bereich, der nach wie vor ähnlich gut wie Lichess oder chess.com ist. Chesstempo hat viele weitere Feature, es ist unklar, wie gut genutzt Chesstempo ist.
 
 ### Chessbase
 
@@ -65,14 +69,6 @@ Aus meiner Sicht ist Chessbase keine vollständige Plattform.
 [Chessable](https://www.chessable.com/) war etwas Besonderes, als es neu entstand. Computer Based Training, einige freie Kurse, sehr gute Trainer, und exzellentes Material. Aber jeder, der das mal versucht hat, merkt, dass man seine Grenzen hat, was man an einem Tag lernen und trainieren kann. Und für viele Trainings ist die Art nicht geeignet. Warum wird das unter den Plattformen (für Training) noch aufgeführt? Chessable hatte/hat ein interessantes Feature namens Classroom. Ich habe das mit einem Schüler mal ausprobiert, und das hat so leidlich funktioniert. Inzwischen ist das Einstellen von Inhalten deutlich einfacher, und man kann z.B. direkt mit einer Lichess-Studie starten, und mit Schülern dann durchgehen. Chat, Kamera, Ton, Schachbrett, alles integriert ...
 
 Das Einrichten des Classrooms war umständlich, d.h. man musste sich als Trainer registrieren, und die Schüler müssen alle Mitglied bei Chessable sein. Das ist meines Erachtens die größte Einschränkung. Danach hat man aber eine voll funktionsfähige Lernumgebung, in der man Online-Schachkurse durchführen kann. Man kann heute schwer abschätzen, ob und wie lange die Plattform in der Form weiter existieren wird ... Der Klassenraum bei chess.com scheint eine eigene Implementierung zu sein.
-
-### Chesstempo
-
-Chesstempo war mal die beste Website, wenn es um Taktikaufgaben ging, aber die Entwicklung dort scheint inzwischen hinterherzuhinken. Die UI ist teils alt, teils neu (auch für unerfahrene Webnutzer leicht zu sehen), und wirkt verglichen mit Lichess und chess.com nicht schön. Und leider gibt es auch hier immer wieder eine Bezahlschranke (Upgrade auf Premium, um ..., siehe [Membership](https://chesstempo.com/memberships/)).
-
-Die Möglichkeiten der Plattform sind relativ umfangreich, der Spielbereich ist aber (wie Chessbase) wenig genutzt. Wenn man gespielt hat, ist die Analyse sehr schön, gut unterstützt. Leider kann man die Engines nur mit einem kostenpflichtigen Account nutzen.
-
-Die Partiendatenbank ist recht umfangreich, aber sperrig zu verwenden, und Teile nur bei kostenpflichtigen Accounts zu bekommen. Die Schachtaktiken sind schön, auch die dort skizzierten Themenbereiche sind gut gestaltet. Das ist der Bereich, der nach wie vor ähnlich gut wie Lichess oder chess.com ist. Chesstempo hat viele weitere Feature, es ist unklar, wie gut genutzt Chesstempo ist.
 
 ### Listudy.org
 

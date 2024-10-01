@@ -248,3 +248,6 @@ Ich habe mal ein [Template erstellt](https://docs.google.com/spreadsheets/d/1JQk
   * [Template Trainingsplan](https://docs.google.com/spreadsheets/d/1JQkjEGYLpPLaa2xFejELc65z5d1p-PLCmsa9rT9IJFI/edit?usp=drive_link) das man dann selbst füllen kann (nachdem man es kopiert hat, der Plan ist schreibgeschützt).
 * Analyse
   * [Lichess Blog: how to become good at annotating your chess games](https://lichess.org/@/SayChessClassical/blog/how-to-become-good-at-annotating-your-chess-games/LEwocOqF) mit einigen wichtigen Erkenntnissen.
+* Serie auf Lichess über Training (noch nicht beendet):
+  * [How to make your chess training effective](https://lichess.org/@/HGabor/blog/how-to-make-your-chess-training-effective/2X710GiP) Der CM Gabor Horvath unterscheidet hier zwischen lernen (studying) und trainineren. Ein gut Teil seiner Auslassungen sind aber für uns auch hilfreich. Der erste Artikel ist eine Art überblick, die folgenden fokussieren auf eine Art des Trainings.
+  * [Effective training methods: tactics](https://lichess.org/@/HGabor/blog/effective-training-methods-doing-tactics/5tyH0JJg) Sehr gute Erklärungen, worauf es ankommt.
