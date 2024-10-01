@@ -28,6 +28,19 @@ Die Empfehlung ist 1/3:
 
 Dabei sollte man vermeiden, einfache Unterhaltung mit Training zu verwechseln. Blitz/Bullet spielen, Videos anschauen, ... ist nur Unterhaltung, und vermutlich ohne Wert für die eigene Entwicklung.
 
+### Vorschlag Chessmood
+
+In einem [Blogpost von Chessmood](https://chessmood.com/blog/how-to-get-better-at-chess) habe ich den folgenden (recht simplen) Hinweis gefunden:
+
+> Study -> Practice -> Fix -> (Repeat)
+
+Unser Trainingsaufbau unterstützt das in gewisser Form:
+
+1. Study: Taktiken, Eröffnungs- und Endspieltraining.
+2. Practice: Spielen (in Mannschafts- oder Einzelturnieren)
+3. Fix: Analyse der Partien, Schlüsse ziehen aus den Ergebnissen beim studieren, ...
+4. Repeat: Regelmäßiges Training nach Trainingsplan
+
 ## Aufbau und Inhalte
 
 Dabei wird strukturiert am Aufbau und den Inhalten orientiert versucht, Möglichkeiten aufzuzeigen. Die konkreten Systeme werden dann im entsprechenden Bereich genannt.
