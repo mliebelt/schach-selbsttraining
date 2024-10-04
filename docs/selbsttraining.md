@@ -229,15 +229,15 @@ Trainingsplan für: <NAME DES TRAINIERENDEN\>
 
 Woche: <KALENDERWOCHE\>
 
-| Tag | Thema | Link | Ergebnis | Dauer |
-|-----|-------|------|----------|-------|
-| Montag | Taktik: Doppelangriff (10) | LINK | 8 von 10 | 15 min |
-| Dienstag | Analyse: Partie gegen XY | LINK | Analyse gemacht | 30 min |
-| Mittwoch | Endspiele: Mattsetzen 2 Läufer | LINK |  |  |
-| Donnerstag | Taktik: Röntgenangriff (einfach, 5) | LINK |   |  |
-| Freitag | Analyse: Partie gegen ABC | LINK |    |       |
-| Samstag | Eröffnung: Greco Video anschauen, Mainline erfassen | LINK |     |      |
-| Sonntag | ist | frei | | |
+| Tag        | Thema                                               | Link | Ergebnis        | Dauer  |
+|------------|-----------------------------------------------------|------|-----------------|--------|
+| Montag     | Taktik: Doppelangriff (10)                          | LINK | 8 von 10        | 15 min |
+| Dienstag   | Analyse: Partie gegen XY                            | LINK | Analyse gemacht | 30 min |
+| Mittwoch   | Endspiele: Mattsetzen 2 Läufer                      | LINK |                 |        |
+| Donnerstag | Taktik: Röntgenangriff (einfach, 5)                 | LINK |                 |        |
+| Freitag    | Analyse: Partie gegen ABC                           | LINK |                 |        |
+| Samstag    | Eröffnung: Greco Video anschauen, Mainline erfassen | LINK |                 |        |
+| Sonntag    | ist                                                 | frei |                 |        |
 
 Ich habe mal ein [Template erstellt](https://docs.google.com/spreadsheets/d/1JQkjEGYLpPLaa2xFejELc65z5d1p-PLCmsa9rT9IJFI/edit?usp=drive_link), das man sich dann einfach kopieren können sollte. [Hier ist ein PDF](https://drive.google.com/file/d/1hSJA1oK24jH4hyJix8Gmo2se4ZyJQInY/view?usp=drive_link) davon.
 

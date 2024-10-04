@@ -113,21 +113,21 @@ const config = {
           },
         ],
       },
-      footer: {
-        style: 'dark',
-        links: [
-          {
-            items: [
-              {
-                label: 'Selbsttraining',
-                to: '/docs/selbsttraining',
-              },
-
-            ],
-          },
-        ],
+      // footer: {
+      //   style: 'dark',
+      //   links: [
+      //     {
+      //       items: [
+      //         {
+      //           label: 'Selbsttraining',
+      //           to: '/docs/selbsttraining',
+      //         },
+      //
+      //       ],
+      //     },
+      //   ],
         // copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
-      },
+      // },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,

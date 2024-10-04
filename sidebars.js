@@ -26,7 +26,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Training',
-      items: ['schachonline','onlinetraining','selbsttraining']
+      items: ['selbsttraining','schachonline','onlinetraining']
     },
     {
       type: 'category',

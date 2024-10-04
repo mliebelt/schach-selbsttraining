@@ -78,6 +78,23 @@ Eine neue Plattform, die sich auf Schachtraining spezialisiert hat. Ich habe das
 * Taktiken: Ein einfaches Taktiktraining, bei dem man alle Züge finden muss.
 * Endspiele: Vorbereitete Endspiele, die man gegen die Engine ausspielen kann.
 
+### Aimchess
+
+Link: [Aimchess](https://aimchess.com/)
+
+Teil der Play Magnus Group, ein Werkzeug, das die auf einer der Plattformen gespielten Partien analysieren hilft. (Durch die Übernahme von chess.com nun von dort aus auch verlinkt.) Beim Wiederausprobieren habe ich dort einige (mir nicht bekannte) Feature entdeckt, die es vielleicht wert sind, dass man sie weiter verfolgt. Es gibt aber auch hier eine Bezahlschranke, wenn man fortgeschrittene Feature nutzen möchte. Mit dem Premium-Account bekommt man: 10 Scouting Reports pro Monat; Warm-Up; Zugriff auf die eigenen Statistiken; Zugriff auf den Trainingsraum (den ich nicht kenne); ...). Um die Möglichkeiten auszuprobieren, habe ich mal die 8 Euro pro Monat investiert (für genau 1 Monat).
+
+Aimchess ist wirklich eine Plattform, die versucht, an der Verbesserung der Schachspieler zu arbeiten. Die dazu bereitgestellten Werkzeuge findet man unter Training Room (die Oberfläche scheint es nur in Englisch zu geben). Die Frage ist, ob die Werkzeuge genau die richtigen sind. Und ob die wöchentlichen und täglichen Pläne den richtigen Mix ergeben.
+
+Ich habe ausprobiert:
+
+* Opening Trainer: Bekannte Eröffnungen gegen eine Engine auf einem gewissen Niveau spielen, sein Eröffnungsrepertoire checken.
+* Intuition Trainer: Man klickt sich durch einige Züge einer Partie, und markiert den fehlerhaften Zug. (teil des Training Rooms, kostenfrei)
+* 360 Trainer: Verschiedene Stellungen, in denen man den besten Zug finden muss. Am Tag 10 frei.
+* Blindfold Tactics: die Figuren sehen wie Damesteine aus, am Brett steht, was sie wirklich sind. Dann muss man ein (einfaches bis schwieriges) Puzzle lösen. Dabei steigen die Punkte, die Rätsel wurden nicht wirklich schwieriger. Es waren bei mir einfache Bauernendspiele mit 4 Steinen.
+* Time Trainer: wann rechnet man, und wann spielt man einen "guten Zug"? Mir kam dabei zu wenig raus, ich habe kein Feedback zu meinem Fortschritt bekommen, und das Ergebnis war unklar. Die Idee ist aber gut.
+* Checkmate Patterns: War nett, aber zu einfach. Und die Frage ist, was danach kommt ...
+
 ### ChessMood
 
 Habe ich erst vor kurzem eher zufällig entdeckt, die Plattform spezialisiert sich auf Schachtraining. Sie kann genutzt werden zu Beginn, ohne Geld zu bezahlen, aber die interessanten Inhalte sind nur kostenpflichtig zu bekommen. Dazu benötigt man aber einen Account, der in zwei Varianten kommt, Essential (588$ im Jahr), oder Pro (949$ im Jahr).

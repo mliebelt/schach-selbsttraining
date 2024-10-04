@@ -53,21 +53,11 @@ Es gibt eine Vielzahl von Werkzeugen zum Schach, die nicht als Plattform geeigne
 
 Ich habe mal die "Play Magnus Group" (die es [immer noch gibt](https://playmagnusgroup.com/)) auf Kandidaten untersucht.
 
-### [Chessvision.ai](https://chessvision.ai/)
+### Chessvision.ai
+
+Link: [Chessvision.ai](https://chessvision.ai/)
 
 Gibt es schon einige Jahre, ist eine leichtgewichtige App, sowohl fÜr den Browser wie auch das Handy. Damit kann man Diagramme, die man auf dem Bildschirm hat (oder Variante als Bild vorliegend) zuerst einmal erfassen, und dann in Lichess oder chess.com analysieren. Man kann die Diagramme auch auf verschiedene Arten dann sharen: Email, FEN, ... so dass es keinen Grund mehr gibt, das nicht zu tun.
 
 Hilft mir massiv, wenn ich schöne Ideen irgendwo sehe, wo es eben weder FEN noch PGN gibt. Funktioniert dem Hörensagen nach auch für Videos. Ich hatte auch Versuche gemacht, das mit PDF-Schachbüchern einzusetzen, aber dann benötigt man eine kostenpflichtige Version.
 
-### [Aimchess](https://aimchess.com/)
-
-Teil der Play Magnus Group, ein Werkzeug, das die auf einer der Plattformen gespielten Partien analysieren hilft. (Durch die Übernahme von chess.com nun von dort aus auch verlinkt.) Beim Wiederausprobieren habe ich dort einige (mir nicht bekannte) Feature entdeckt, die es vielleicht wert sind, dass man sie weiter verfolgt. Es gibt aber auch hier eine Bezahlschranke, wenn man fortgeschrittene Feature nutzen möchte. Mit dem Premium-Account bekommt man: 10 Scouting Reports pro Monat; Warm-Up; Zugriff auf die eigenen Statistiken; Zugriff auf den Trainingsraum (den ich nicht kenne); ...). Um die Möglichkeiten auszuprobieren, habe ich mal die 8 Euro pro Monat investiert (für genau 1 Monat).
-
-Ich habe ausprobiert:
-
-* Opening Trainer: Bekannte Eröffnungen gegen eine Engine auf einem gewissen Niveau spielen, sein Eröffnungsrepertoire checken.
-* Intuition Trainer: Man klickt sich durch einige Züge einer Partie, und markiert den fehlerhaften Zug. (teil des Training Rooms, kostenfrei)
-* 360 Trainer: Verschiedene Stellungen, in denen man den besten Zug finden muss. Am Tag 10 frei.
-* Blindfold Tactics: die Figuren sehen wie Damesteine aus, am Brett steht, was sie wirklich sind. Dann muss man ein (einfaches bis schwieriges) Puzzle lösen. Dabei steigen die Punkte, die Rätsel wurden nicht wirklich schwieriger. Es waren bei mir einfache Bauernendspiele mit 4 Steinen.
-* Time Trainer: wann rechnet man, und wann spielt man einen "guten Zug"? Mir kam dabei zu wenig raus, ich habe kein Feedback zu meinem Fortschritt bekommen, und das Ergebnis war unklar. Die Idee ist aber gut.
-* Checkmate Patterns: War nett, aber zu einfach. Und die Frage ist, was danach kommt ...

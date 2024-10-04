@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Methodik',
-    link: 'docs/onlinetraining',
+    link: 'docs/selbsttraining',
     Svg: require('@site/static/img/chess-buddies.svg').default,
     description: (
       <>
